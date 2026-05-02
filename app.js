@@ -78,7 +78,13 @@ function normalizeText(str) {
 // --- Logic: Query Parsing ---
 function parseQueryParts(query) {
     const normalizedQuery = normalizeText(query);
-    let remainingText = normalizedQuery;
+    
+    // 英数字・記号と日本語（非ASCII）の間にスペースを挿入し、分離しやすくする
+    const spacedText = normalizedQuery
+        .replace(/([^\x00-\x7F])([a-z0-9\/]+)/g, '$1 $2')
+        .replace(/([a-z0-9\/]+)([^\x00-\x7F])/g, '$1 $2');
+
+    let remainingText = spacedText;
     let collectorNumber = null;
     let setCode = null;
 
@@ -110,6 +116,7 @@ function parseQueryParts(query) {
 
     return {
         normalizedQuery,
+        spacedText,
         remainingText,
         collectorNumber,
         setCode
@@ -127,6 +134,8 @@ function searchPokemonNames(query, parsedParts) {
     const scoredPokemon = pokemonNamesData.map(pokemon => {
         let isMatchAll = true;
         let score = 0;
+        let matchedTermCount = 0;
+        let localExtraParts = [];
 
         const nameJa = normalizeText(pokemon.name_ja);
         const nameEn = normalizeText(pokemon.name_en || '');
@@ -150,22 +159,30 @@ function searchPokemonNames(query, parsedParts) {
             if (maxTermScore > 0) {
                 termMatched = true;
                 score += maxTermScore;
-            }
-
-            if (!termMatched) {
-                isMatchAll = false;
-                break;
+                matchedTermCount++;
+            } else {
+                // 英数字・記号のみの場合は、検索を落とさずに余剰パーツとして扱う
+                if (/^[a-z0-9\/]+$/.test(term)) {
+                    localExtraParts.push(term);
+                } else {
+                    isMatchAll = false;
+                    break;
+                }
             }
         }
 
-        return isMatchAll ? { pokemon, score } : null;
+        // 少なくとも1つの単語がポケモン名にマッチしている必要がある
+        if (isMatchAll && matchedTermCount > 0) {
+            return { pokemon, score, localExtraParts };
+        }
+        return null;
     }).filter(item => item !== null);
 
     scoredPokemon.sort((a, b) => b.score - a.score || a.pokemon.id - b.pokemon.id);
-    return scoredPokemon.map(item => item.pokemon).slice(0, 10);
+    return scoredPokemon.slice(0, 10);
 }
 
-function buildPokemonSuggestion(pokemon, parsedParts) {
+function buildPokemonSuggestion(pokemon, parsedParts, localExtraParts = []) {
     const pokemonSuggestion = {
         type: 'pokemon',
         text: `【ポケモン名】${pokemon.name_ja}`,
@@ -174,17 +191,19 @@ function buildPokemonSuggestion(pokemon, parsedParts) {
     };
 
     let withPartsSuggestion = null;
-    if (parsedParts.setCode || parsedParts.collectorNumber) {
-        const parts = [
-            pokemon.name_ja,
-            parsedParts.setCode,
-            parsedParts.collectorNumber
-        ].filter(Boolean);
+    
+    const parts = [
+        parsedParts.setCode,
+        parsedParts.collectorNumber,
+        ...localExtraParts
+    ].filter(Boolean);
 
+    if (parts.length > 0) {
+        const outputText = [pokemon.name_ja, ...parts].join(' ');
         withPartsSuggestion = {
             type: 'pokemon_with_parts',
-            text: `【入力補正】${parts.join(' ')}`,
-            output: parts.join(' '),
+            text: `【入力補正】${outputText}`,
+            output: outputText,
             raw: pokemon
         };
     }
@@ -260,13 +279,13 @@ function searchCards(query, cards) {
 // --- Logic: Search Integration ---
 function mergeResults(pokemonResults, cardResults, parsedParts) {
     let suggestions = [];
-    const isOnlyPokemonName = !parsedParts.setCode && !parsedParts.collectorNumber;
 
     let allPokemonSuggestions = [];
     let allWithPartsSuggestions = [];
 
-    pokemonResults.forEach(pokemon => {
-        const { pokemonSuggestion, withPartsSuggestion } = buildPokemonSuggestion(pokemon, parsedParts);
+    pokemonResults.forEach(result => {
+        const { pokemon, localExtraParts } = result;
+        const { pokemonSuggestion, withPartsSuggestion } = buildPokemonSuggestion(pokemon, parsedParts, localExtraParts);
         allPokemonSuggestions.push(pokemonSuggestion);
         if (withPartsSuggestion) {
             allWithPartsSuggestions.push(withPartsSuggestion);
@@ -283,7 +302,9 @@ function mergeResults(pokemonResults, cardResults, parsedParts) {
         };
     });
 
-    if (isOnlyPokemonName) {
+    const hasParts = allWithPartsSuggestions.length > 0;
+
+    if (!hasParts) {
         suggestions = [...allPokemonSuggestions, ...mappedCardResults];
     } else {
         suggestions = [...allWithPartsSuggestions, ...allPokemonSuggestions, ...mappedCardResults];
@@ -297,7 +318,8 @@ function searchAll(query) {
 
     const parsedParts = parseQueryParts(query);
     const pokemonResults = searchPokemonNames(query, parsedParts);
-    const cardResults = searchCards(query, cardsData);
+    // cards.json側の検索にもスペース分離済みのテキストを渡し、くっついた入力でもヒットしやすくする
+    const cardResults = searchCards(parsedParts.spacedText, cardsData);
 
     return mergeResults(pokemonResults, cardResults, parsedParts);
 }
