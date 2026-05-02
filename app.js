@@ -1,8 +1,9 @@
 // --- State ---
 let cardsData = [];
-let filteredCards = [];
+let pokemonNamesData = [];
+let filteredSuggestions = [];
 let selectedIndex = -1;
-let dataLoadError = false;
+let cardsDataLoadError = false;
 
 // --- DOM Elements ---
 const searchInput = document.getElementById('searchInput');
@@ -13,6 +14,7 @@ const copyButton = document.getElementById('copyButton');
 
 // --- Initialization ---
 async function init() {
+    // data/cards.json の読み込み
     try {
         const response = await fetch('data/cards.json');
         if (!response.ok) {
@@ -21,13 +23,24 @@ async function init() {
         cardsData = await response.json();
         
         if (!cardsData || cardsData.length === 0) {
-            dataLoadError = true;
+            cardsDataLoadError = true;
             showStatus('カードデータがありません', 'error');
         }
     } catch (error) {
         console.error('Failed to load cards:', error);
-        dataLoadError = true;
-        showStatus('カードデータを読み込めませんでした。ローカルファイルとして直接開いている場合は、サーバーを立ち上げる必要があります。', 'error');
+        cardsDataLoadError = true;
+        showStatus('カードデータを読み込めませんでした。ローカルサーバーが立ち上がっているか確認してください。', 'error');
+    }
+
+    // data/pokemon_names.json の読み込み
+    try {
+        const pokeRes = await fetch('data/pokemon_names.json');
+        if (!pokeRes.ok) {
+            throw new Error(`HTTP error! status: ${pokeRes.status}`);
+        }
+        pokemonNamesData = await pokeRes.json();
+    } catch (error) {
+        console.warn('pokemon_names.json を読み込めませんでした。ポケモン名候補なしで続行します。');
     }
 
     setupEventListeners();
@@ -37,17 +50,151 @@ async function init() {
 function normalizeString(str) {
     if (!str) return '';
     return str
-        .replace(/[Ａ-Ｚａ-ｚ０-９]/g, (s) => String.fromCharCode(s.charCodeAt(0) - 0xFEE0)) // 全角英数字を半角に
-        .toLowerCase() // 小文字化
-        .replace(/　/g, ' ') // 全角スペースを半角スペースに
-        .replace(/／/g, '/'); // 全角スラッシュを半角スラッシュに
+        .replace(/[Ａ-Ｚａ-ｚ０-９]/g, (s) => String.fromCharCode(s.charCodeAt(0) - 0xFEE0))
+        .toLowerCase()
+        .replace(/　/g, ' ')
+        .replace(/／/g, '/');
 }
 
-// --- Logic: Search ---
-function searchCards(query, cards) {
-    if (!query.trim()) {
-        return [];
+function katakanaToHiragana(str) {
+    return str.replace(/[\u30a1-\u30f6]/g, function(match) {
+        var chr = match.charCodeAt(0) - 0x60;
+        return String.fromCharCode(chr);
+    });
+}
+
+function normalizeText(str) {
+    if (!str) return '';
+    let normalized = str
+        .replace(/[Ａ-Ｚａ-ｚ０-９]/g, (s) => String.fromCharCode(s.charCodeAt(0) - 0xFEE0))
+        .replace(/／/g, '/')
+        .toLowerCase()
+        .replace(/　/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim();
+    return katakanaToHiragana(normalized);
+}
+
+// --- Logic: Query Parsing ---
+function parseQueryParts(query) {
+    const normalizedQuery = normalizeText(query);
+    let remainingText = normalizedQuery;
+    let collectorNumber = null;
+    let setCode = null;
+
+    // コレクター番号抽出: \d{1,3}/\d{1,3}
+    const cnMatch = remainingText.match(/\d{1,3}\/\d{1,3}/);
+    if (cnMatch) {
+        let parts = cnMatch[0].split('/');
+        collectorNumber = `${parts[0].padStart(3, '0')}/${parts[1].padStart(3, '0')}`;
+        remainingText = remainingText.replace(cnMatch[0], ' ');
     }
+
+    // セットコード抽出
+    const words = remainingText.split(/\s+/).filter(w => w.length > 0);
+    let newWords = [];
+    for (let i = 0; i < words.length; i++) {
+        const word = words[i];
+        if (!setCode && /^[a-z]{1,4}\d{0,3}[a-z]?$/.test(word)) {
+            const hasNumber = /\d/.test(word);
+            const existsInCards = cardsData.some(c => (c.set_code || '').toLowerCase() === word);
+            if (hasNumber || existsInCards) {
+                setCode = word;
+                continue;
+            }
+        }
+        newWords.push(word);
+    }
+    
+    remainingText = newWords.join(' ').trim();
+
+    return {
+        normalizedQuery,
+        remainingText,
+        collectorNumber,
+        setCode
+    };
+}
+
+// --- Logic: Pokemon Name Search ---
+function searchPokemonNames(query, parsedParts) {
+    if (!pokemonNamesData || pokemonNamesData.length === 0) return [];
+    if (!parsedParts.remainingText) return [];
+
+    const searchTerms = parsedParts.remainingText.split(/\s+/).filter(t => t.length > 0);
+    if (searchTerms.length === 0) return [];
+
+    const scoredPokemon = pokemonNamesData.map(pokemon => {
+        let isMatchAll = true;
+        let score = 0;
+
+        const nameJa = normalizeText(pokemon.name_ja);
+        const nameEn = normalizeText(pokemon.name_en || '');
+        const keywords = (pokemon.search_keywords || []).map(k => normalizeText(k));
+        
+        const targets = keywords.length > 0 ? keywords : [nameJa, nameEn].filter(Boolean);
+
+        for (const term of searchTerms) {
+            let termMatched = false;
+            let maxTermScore = 0;
+
+            if (nameJa === term) maxTermScore = Math.max(maxTermScore, 100);
+            if (nameJa.startsWith(term)) maxTermScore = Math.max(maxTermScore, 80);
+            
+            for (const target of targets) {
+                if (target === term) maxTermScore = Math.max(maxTermScore, 50);
+                else if (target.startsWith(term)) maxTermScore = Math.max(maxTermScore, 30);
+                else if (target.includes(term)) maxTermScore = Math.max(maxTermScore, 10);
+            }
+
+            if (maxTermScore > 0) {
+                termMatched = true;
+                score += maxTermScore;
+            }
+
+            if (!termMatched) {
+                isMatchAll = false;
+                break;
+            }
+        }
+
+        return isMatchAll ? { pokemon, score } : null;
+    }).filter(item => item !== null);
+
+    scoredPokemon.sort((a, b) => b.score - a.score || a.pokemon.id - b.pokemon.id);
+    return scoredPokemon.map(item => item.pokemon).slice(0, 10);
+}
+
+function buildPokemonSuggestion(pokemon, parsedParts) {
+    const pokemonSuggestion = {
+        type: 'pokemon',
+        text: `【ポケモン名】${pokemon.name_ja}`,
+        output: pokemon.name_ja,
+        raw: pokemon
+    };
+
+    let withPartsSuggestion = null;
+    if (parsedParts.setCode || parsedParts.collectorNumber) {
+        const parts = [
+            pokemon.name_ja,
+            parsedParts.setCode,
+            parsedParts.collectorNumber
+        ].filter(Boolean);
+
+        withPartsSuggestion = {
+            type: 'pokemon_with_parts',
+            text: `【入力補正】${parts.join(' ')}`,
+            output: parts.join(' '),
+            raw: pokemon
+        };
+    }
+
+    return { pokemonSuggestion, withPartsSuggestion };
+}
+
+// --- Logic: Card Search (Original) ---
+function searchCards(query, cards) {
+    if (!query.trim()) return [];
 
     const normalizedQuery = normalizeString(query);
     const searchTerms = normalizedQuery.split(/\s+/).filter(term => term.length > 0);
@@ -65,22 +212,23 @@ function searchCards(query, cards) {
             keywords: (card.keywords || []).map(k => normalizeString(k)).join(' ')
         };
 
-        for (const term of searchTerms) {
+        // カタカナ・ひらがなの揺れ吸収のため、カード名もひらがな化して判定追加
+        const hiraganaCardName = katakanaToHiragana(normalizedFields.card_name);
+
+        for (let term of searchTerms) {
             let termMatched = false;
             let maxTermScore = 0;
+            const hiraTerm = katakanaToHiragana(term);
 
-            // 強い一致
             if (normalizedFields.set_code === term) maxTermScore = Math.max(maxTermScore, 100);
             if (normalizedFields.collector_number === term) maxTermScore = Math.max(maxTermScore, 100);
-            if (normalizedFields.card_name === term) maxTermScore = Math.max(maxTermScore, 100);
+            if (normalizedFields.card_name === term || hiraganaCardName === hiraTerm) maxTermScore = Math.max(maxTermScore, 100);
             
-            // 中程度の一致
-            if (normalizedFields.card_name.startsWith(term)) maxTermScore = Math.max(maxTermScore, 50);
+            if (normalizedFields.card_name.startsWith(term) || hiraganaCardName.startsWith(hiraTerm)) maxTermScore = Math.max(maxTermScore, 50);
             if (normalizedFields.collector_number.includes(term)) maxTermScore = Math.max(maxTermScore, 50);
             if ((card.keywords || []).some(k => normalizeString(k) === term)) maxTermScore = Math.max(maxTermScore, 50);
 
-            // 弱い一致
-            if (normalizedFields.card_name.includes(term)) maxTermScore = Math.max(maxTermScore, 10);
+            if (normalizedFields.card_name.includes(term) || hiraganaCardName.includes(hiraTerm)) maxTermScore = Math.max(maxTermScore, 10);
             if (normalizedFields.set_name.includes(term)) maxTermScore = Math.max(maxTermScore, 10);
             if (normalizedFields.keywords.includes(term)) maxTermScore = Math.max(maxTermScore, 10);
             if (normalizedFields.rarity === term || normalizedFields.rarity.includes(term)) maxTermScore = Math.max(maxTermScore, 10);
@@ -92,41 +240,66 @@ function searchCards(query, cards) {
 
             if (!termMatched) {
                 isMatchAll = false;
-                break; // 1つでも一致しない単語があれば、このカードは除外
+                break;
             }
         }
 
         return isMatchAll ? { card, score } : null;
     }).filter(item => item !== null);
 
-    // ソート
     scoredCards.sort((a, b) => {
-        if (b.score !== a.score) {
-            return b.score - a.score; // スコア降順
-        }
-        // スコアが同じ場合は set_code -> collector_number -> card_name 昇順
-        if (a.card.set_code !== b.card.set_code) {
-            return (a.card.set_code || '').localeCompare(b.card.set_code || '');
-        }
-        if (a.card.collector_number !== b.card.collector_number) {
-            return (a.card.collector_number || '').localeCompare(b.card.collector_number || '');
-        }
+        if (b.score !== a.score) return b.score - a.score;
+        if (a.card.set_code !== b.card.set_code) return (a.card.set_code || '').localeCompare(b.card.set_code || '');
+        if (a.card.collector_number !== b.card.collector_number) return (a.card.collector_number || '').localeCompare(b.card.collector_number || '');
         return (a.card.card_name || '').localeCompare(b.card.card_name || '');
     });
 
-    return scoredCards.map(item => item.card).slice(0, 20); // 最大20件
+    return scoredCards.map(item => item.card).slice(0, 20);
 }
 
-// --- Logic: Output Formatting ---
-function formatCardOutput(card) {
-    const parts = [
-        card.card_name,
-        card.set_code,
-        card.collector_number,
-        card.rarity
-    ].filter(part => part && part.trim() !== ''); // 空欄を除外
+// --- Logic: Search Integration ---
+function mergeResults(pokemonResults, cardResults, parsedParts) {
+    let suggestions = [];
+    const isOnlyPokemonName = !parsedParts.setCode && !parsedParts.collectorNumber;
 
-    return parts.join(' ');
+    let allPokemonSuggestions = [];
+    let allWithPartsSuggestions = [];
+
+    pokemonResults.forEach(pokemon => {
+        const { pokemonSuggestion, withPartsSuggestion } = buildPokemonSuggestion(pokemon, parsedParts);
+        allPokemonSuggestions.push(pokemonSuggestion);
+        if (withPartsSuggestion) {
+            allWithPartsSuggestions.push(withPartsSuggestion);
+        }
+    });
+
+    let mappedCardResults = cardResults.map(card => {
+        const parts = [card.card_name, card.set_code, card.collector_number, card.rarity].filter(part => part && part.trim() !== '');
+        return {
+            type: 'card',
+            text: `【カード】${parts.join(' ')}`,
+            output: parts.join(' '),
+            raw: card
+        };
+    });
+
+    if (isOnlyPokemonName) {
+        suggestions = [...allPokemonSuggestions, ...mappedCardResults];
+    } else {
+        suggestions = [...allWithPartsSuggestions, ...allPokemonSuggestions, ...mappedCardResults];
+    }
+
+    return suggestions.slice(0, 20);
+}
+
+function searchAll(query) {
+    if (!query.trim()) return [];
+
+    const parsedParts = parseQueryParts(query);
+    const pokemonResults = searchPokemonNames(query, parsedParts);
+    const cardResults = searchCards(query, cardsData);
+
+    return mergeResults(pokemonResults, cardResults, parsedParts);
 }
 
 // --- UI Updates ---
@@ -135,10 +308,10 @@ function showStatus(message, type = '') {
     statusMessage.className = 'status-message ' + type;
 }
 
-function renderSuggestions(cards) {
+function renderSuggestions(suggestions) {
     suggestionList.innerHTML = '';
     
-    if (cards.length === 0) {
+    if (suggestions.length === 0) {
         suggestionList.classList.remove('active');
         if (searchInput.value.trim().length > 0) {
             showStatus('候補がありません');
@@ -151,28 +324,36 @@ function renderSuggestions(cards) {
     showStatus('');
     suggestionList.classList.add('active');
 
-    cards.forEach((card, index) => {
+    suggestions.forEach((suggestion, index) => {
         const li = document.createElement('li');
-        li.textContent = `${card.card_name} ${card.set_code} ${card.collector_number} ${card.rarity || ''}`.trim();
+        li.textContent = suggestion.text;
+        
+        if (suggestion.type === 'pokemon') {
+            li.classList.add('suggestion-pokemon');
+        } else if (suggestion.type === 'pokemon_with_parts') {
+            li.classList.add('suggestion-pokemon-with-parts');
+        } else if (suggestion.type === 'card') {
+            li.classList.add('suggestion-card');
+        }
+
         if (index === selectedIndex) {
             li.classList.add('selected');
         }
 
         li.addEventListener('click', () => {
-            selectCard(index);
+            selectSuggestion(index);
         });
 
         suggestionList.appendChild(li);
     });
 }
 
-function selectCard(index) {
-    if (index < 0 || index >= filteredCards.length) return;
+function selectSuggestion(index) {
+    if (index < 0 || index >= filteredSuggestions.length) return;
     
-    const card = filteredCards[index];
-    outputInput.value = formatCardOutput(card);
+    const suggestion = filteredSuggestions[index];
+    outputInput.value = suggestion.output;
     
-    // 候補を閉じる
     suggestionList.classList.remove('active');
     searchInput.focus();
 }
@@ -180,11 +361,11 @@ function selectCard(index) {
 // --- Event Listeners ---
 function setupEventListeners() {
     searchInput.addEventListener('input', (e) => {
-        if (dataLoadError) return; // データ読み込みエラー時は検索しない
+        // カードデータがなくてもポケモン名検索が動くように、エラーチェックを緩和
         const query = e.target.value;
-        filteredCards = searchCards(query, cardsData);
-        selectedIndex = -1; // 検索結果が変わったら選択をリセット
-        renderSuggestions(filteredCards);
+        filteredSuggestions = searchAll(query);
+        selectedIndex = -1;
+        renderSuggestions(filteredSuggestions);
     });
 
     searchInput.addEventListener('keydown', (e) => {
@@ -192,21 +373,20 @@ function setupEventListeners() {
 
         if (e.key === 'ArrowDown') {
             e.preventDefault();
-            selectedIndex = Math.min(selectedIndex + 1, filteredCards.length - 1);
-            renderSuggestions(filteredCards);
+            selectedIndex = Math.min(selectedIndex + 1, filteredSuggestions.length - 1);
+            renderSuggestions(filteredSuggestions);
             scrollToSelected();
         } else if (e.key === 'ArrowUp') {
             e.preventDefault();
-            selectedIndex = Math.max(selectedIndex - 1, 0); // -1には戻さない（一番上で止まる）
-            renderSuggestions(filteredCards);
+            selectedIndex = Math.max(selectedIndex - 1, 0);
+            renderSuggestions(filteredSuggestions);
             scrollToSelected();
         } else if (e.key === 'Enter') {
             e.preventDefault();
-            if (selectedIndex >= 0 && selectedIndex < filteredCards.length) {
-                selectCard(selectedIndex);
-            } else if (filteredCards.length > 0) {
-                // 何も選択されていない状態でEnterを押したら1件目を選択する
-                selectCard(0);
+            if (selectedIndex >= 0 && selectedIndex < filteredSuggestions.length) {
+                selectSuggestion(selectedIndex);
+            } else if (filteredSuggestions.length > 0) {
+                selectSuggestion(0);
             }
         } else if (e.key === 'Escape') {
             suggestionList.classList.remove('active');
@@ -214,7 +394,6 @@ function setupEventListeners() {
         }
     });
     
-    // 他の場所をクリックしたら候補を閉じる
     document.addEventListener('click', (e) => {
         if (!e.target.closest('.search-section') && !e.target.closest('.results-section')) {
             suggestionList.classList.remove('active');
@@ -235,7 +414,6 @@ function setupEventListeners() {
             }, 3000);
         } catch (err) {
             console.error('Copy failed:', err);
-            // 代替のコピー方法（古いブラウザ対応）
             try {
                 outputInput.select();
                 document.execCommand('copy');

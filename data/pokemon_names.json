@@ -1,0 +1,10252 @@
+[
+  {
+    "id": 1,
+    "name_ja": "フシギダネ",
+    "name_en": "Bulbasaur",
+    "search_keywords": [
+      "フシギダネ",
+      "Bulbasaur"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 2,
+    "name_ja": "フシギソウ",
+    "name_en": "Ivysaur",
+    "search_keywords": [
+      "フシギソウ",
+      "Ivysaur"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 3,
+    "name_ja": "フシギバナ",
+    "name_en": "Venusaur",
+    "search_keywords": [
+      "フシギバナ",
+      "Venusaur"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 4,
+    "name_ja": "ヒトカゲ",
+    "name_en": "Charmander",
+    "search_keywords": [
+      "ヒトカゲ",
+      "Charmander"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 5,
+    "name_ja": "リザード",
+    "name_en": "Charmeleon",
+    "search_keywords": [
+      "リザード",
+      "Charmeleon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 6,
+    "name_ja": "リザードン",
+    "name_en": "Charizard",
+    "search_keywords": [
+      "リザードン",
+      "Charizard"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 7,
+    "name_ja": "ゼニガメ",
+    "name_en": "Squirtle",
+    "search_keywords": [
+      "ゼニガメ",
+      "Squirtle"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 8,
+    "name_ja": "カメール",
+    "name_en": "Wartortle",
+    "search_keywords": [
+      "カメール",
+      "Wartortle"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 9,
+    "name_ja": "カメックス",
+    "name_en": "Blastoise",
+    "search_keywords": [
+      "カメックス",
+      "Blastoise"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 10,
+    "name_ja": "キャタピー",
+    "name_en": "Caterpie",
+    "search_keywords": [
+      "キャタピー",
+      "Caterpie"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 11,
+    "name_ja": "トランセル",
+    "name_en": "Metapod",
+    "search_keywords": [
+      "トランセル",
+      "Metapod"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 12,
+    "name_ja": "バタフリー",
+    "name_en": "Butterfree",
+    "search_keywords": [
+      "バタフリー",
+      "Butterfree"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 13,
+    "name_ja": "ビードル",
+    "name_en": "Weedle",
+    "search_keywords": [
+      "ビードル",
+      "Weedle"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 14,
+    "name_ja": "コクーン",
+    "name_en": "Kakuna",
+    "search_keywords": [
+      "コクーン",
+      "Kakuna"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 15,
+    "name_ja": "スピアー",
+    "name_en": "Beedrill",
+    "search_keywords": [
+      "スピアー",
+      "Beedrill"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 16,
+    "name_ja": "ポッポ",
+    "name_en": "Pidgey",
+    "search_keywords": [
+      "ポッポ",
+      "Pidgey"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 17,
+    "name_ja": "ピジョン",
+    "name_en": "Pidgeotto",
+    "search_keywords": [
+      "ピジョン",
+      "Pidgeotto"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 18,
+    "name_ja": "ピジョット",
+    "name_en": "Pidgeot",
+    "search_keywords": [
+      "ピジョット",
+      "Pidgeot"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 19,
+    "name_ja": "コラッタ",
+    "name_en": "Rattata",
+    "search_keywords": [
+      "コラッタ",
+      "Rattata"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 20,
+    "name_ja": "ラッタ",
+    "name_en": "Raticate",
+    "search_keywords": [
+      "ラッタ",
+      "Raticate"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 21,
+    "name_ja": "オニスズメ",
+    "name_en": "Spearow",
+    "search_keywords": [
+      "オニスズメ",
+      "Spearow"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 22,
+    "name_ja": "オニドリル",
+    "name_en": "Fearow",
+    "search_keywords": [
+      "オニドリル",
+      "Fearow"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 23,
+    "name_ja": "アーボ",
+    "name_en": "Ekans",
+    "search_keywords": [
+      "アーボ",
+      "Ekans"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 24,
+    "name_ja": "アーボック",
+    "name_en": "Arbok",
+    "search_keywords": [
+      "アーボック",
+      "Arbok"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 25,
+    "name_ja": "ピカチュウ",
+    "name_en": "Pikachu",
+    "search_keywords": [
+      "ピカチュウ",
+      "Pikachu"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 26,
+    "name_ja": "ライチュウ",
+    "name_en": "Raichu",
+    "search_keywords": [
+      "ライチュウ",
+      "Raichu"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 27,
+    "name_ja": "サンド",
+    "name_en": "Sandshrew",
+    "search_keywords": [
+      "サンド",
+      "Sandshrew"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 28,
+    "name_ja": "サンドパン",
+    "name_en": "Sandslash",
+    "search_keywords": [
+      "サンドパン",
+      "Sandslash"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 29,
+    "name_ja": "ニドラン♀",
+    "name_en": "Nidoran♀",
+    "search_keywords": [
+      "ニドラン♀",
+      "Nidoran♀"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 30,
+    "name_ja": "ニドリーナ",
+    "name_en": "Nidorina",
+    "search_keywords": [
+      "ニドリーナ",
+      "Nidorina"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 31,
+    "name_ja": "ニドクイン",
+    "name_en": "Nidoqueen",
+    "search_keywords": [
+      "ニドクイン",
+      "Nidoqueen"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 32,
+    "name_ja": "ニドラン♂",
+    "name_en": "Nidoran♂",
+    "search_keywords": [
+      "ニドラン♂",
+      "Nidoran♂"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 33,
+    "name_ja": "ニドリーノ",
+    "name_en": "Nidorino",
+    "search_keywords": [
+      "ニドリーノ",
+      "Nidorino"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 34,
+    "name_ja": "ニドキング",
+    "name_en": "Nidoking",
+    "search_keywords": [
+      "ニドキング",
+      "Nidoking"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 35,
+    "name_ja": "ピッピ",
+    "name_en": "Clefairy",
+    "search_keywords": [
+      "ピッピ",
+      "Clefairy"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 36,
+    "name_ja": "ピクシー",
+    "name_en": "Clefable",
+    "search_keywords": [
+      "ピクシー",
+      "Clefable"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 37,
+    "name_ja": "ロコン",
+    "name_en": "Vulpix",
+    "search_keywords": [
+      "ロコン",
+      "Vulpix"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 38,
+    "name_ja": "キュウコン",
+    "name_en": "Ninetales",
+    "search_keywords": [
+      "キュウコン",
+      "Ninetales"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 39,
+    "name_ja": "プリン",
+    "name_en": "Jigglypuff",
+    "search_keywords": [
+      "プリン",
+      "Jigglypuff"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 40,
+    "name_ja": "プクリン",
+    "name_en": "Wigglytuff",
+    "search_keywords": [
+      "プクリン",
+      "Wigglytuff"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 41,
+    "name_ja": "ズバット",
+    "name_en": "Zubat",
+    "search_keywords": [
+      "ズバット",
+      "Zubat"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 42,
+    "name_ja": "ゴルバット",
+    "name_en": "Golbat",
+    "search_keywords": [
+      "ゴルバット",
+      "Golbat"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 43,
+    "name_ja": "ナゾノクサ",
+    "name_en": "Oddish",
+    "search_keywords": [
+      "ナゾノクサ",
+      "Oddish"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 44,
+    "name_ja": "クサイハナ",
+    "name_en": "Gloom",
+    "search_keywords": [
+      "クサイハナ",
+      "Gloom"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 45,
+    "name_ja": "ラフレシア",
+    "name_en": "Vileplume",
+    "search_keywords": [
+      "ラフレシア",
+      "Vileplume"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 46,
+    "name_ja": "パラス",
+    "name_en": "Paras",
+    "search_keywords": [
+      "パラス",
+      "Paras"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 47,
+    "name_ja": "パラセクト",
+    "name_en": "Parasect",
+    "search_keywords": [
+      "パラセクト",
+      "Parasect"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 48,
+    "name_ja": "コンパン",
+    "name_en": "Venonat",
+    "search_keywords": [
+      "コンパン",
+      "Venonat"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 49,
+    "name_ja": "モルフォン",
+    "name_en": "Venomoth",
+    "search_keywords": [
+      "モルフォン",
+      "Venomoth"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 50,
+    "name_ja": "ディグダ",
+    "name_en": "Diglett",
+    "search_keywords": [
+      "ディグダ",
+      "Diglett"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 51,
+    "name_ja": "ダグトリオ",
+    "name_en": "Dugtrio",
+    "search_keywords": [
+      "ダグトリオ",
+      "Dugtrio"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 52,
+    "name_ja": "ニャース",
+    "name_en": "Meowth",
+    "search_keywords": [
+      "ニャース",
+      "Meowth"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 53,
+    "name_ja": "ペルシアン",
+    "name_en": "Persian",
+    "search_keywords": [
+      "ペルシアン",
+      "Persian"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 54,
+    "name_ja": "コダック",
+    "name_en": "Psyduck",
+    "search_keywords": [
+      "コダック",
+      "Psyduck"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 55,
+    "name_ja": "ゴルダック",
+    "name_en": "Golduck",
+    "search_keywords": [
+      "ゴルダック",
+      "Golduck"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 56,
+    "name_ja": "マンキー",
+    "name_en": "Mankey",
+    "search_keywords": [
+      "マンキー",
+      "Mankey"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 57,
+    "name_ja": "オコリザル",
+    "name_en": "Primeape",
+    "search_keywords": [
+      "オコリザル",
+      "Primeape"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 58,
+    "name_ja": "ガーディ",
+    "name_en": "Growlithe",
+    "search_keywords": [
+      "ガーディ",
+      "Growlithe"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 59,
+    "name_ja": "ウインディ",
+    "name_en": "Arcanine",
+    "search_keywords": [
+      "ウインディ",
+      "Arcanine"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 60,
+    "name_ja": "ニョロモ",
+    "name_en": "Poliwag",
+    "search_keywords": [
+      "ニョロモ",
+      "Poliwag"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 61,
+    "name_ja": "ニョロゾ",
+    "name_en": "Poliwhirl",
+    "search_keywords": [
+      "ニョロゾ",
+      "Poliwhirl"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 62,
+    "name_ja": "ニョロボン",
+    "name_en": "Poliwrath",
+    "search_keywords": [
+      "ニョロボン",
+      "Poliwrath"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 63,
+    "name_ja": "ケーシィ",
+    "name_en": "Abra",
+    "search_keywords": [
+      "ケーシィ",
+      "Abra"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 64,
+    "name_ja": "ユンゲラー",
+    "name_en": "Kadabra",
+    "search_keywords": [
+      "ユンゲラー",
+      "Kadabra"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 65,
+    "name_ja": "フーディン",
+    "name_en": "Alakazam",
+    "search_keywords": [
+      "フーディン",
+      "Alakazam"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 66,
+    "name_ja": "ワンリキー",
+    "name_en": "Machop",
+    "search_keywords": [
+      "ワンリキー",
+      "Machop"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 67,
+    "name_ja": "ゴーリキー",
+    "name_en": "Machoke",
+    "search_keywords": [
+      "ゴーリキー",
+      "Machoke"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 68,
+    "name_ja": "カイリキー",
+    "name_en": "Machamp",
+    "search_keywords": [
+      "カイリキー",
+      "Machamp"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 69,
+    "name_ja": "マダツボミ",
+    "name_en": "Bellsprout",
+    "search_keywords": [
+      "マダツボミ",
+      "Bellsprout"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 70,
+    "name_ja": "ウツドン",
+    "name_en": "Weepinbell",
+    "search_keywords": [
+      "ウツドン",
+      "Weepinbell"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 71,
+    "name_ja": "ウツボット",
+    "name_en": "Victreebel",
+    "search_keywords": [
+      "ウツボット",
+      "Victreebel"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 72,
+    "name_ja": "メノクラゲ",
+    "name_en": "Tentacool",
+    "search_keywords": [
+      "メノクラゲ",
+      "Tentacool"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 73,
+    "name_ja": "ドククラゲ",
+    "name_en": "Tentacruel",
+    "search_keywords": [
+      "ドククラゲ",
+      "Tentacruel"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 74,
+    "name_ja": "イシツブテ",
+    "name_en": "Geodude",
+    "search_keywords": [
+      "イシツブテ",
+      "Geodude"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 75,
+    "name_ja": "ゴローン",
+    "name_en": "Graveler",
+    "search_keywords": [
+      "ゴローン",
+      "Graveler"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 76,
+    "name_ja": "ゴローニャ",
+    "name_en": "Golem",
+    "search_keywords": [
+      "ゴローニャ",
+      "Golem"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 77,
+    "name_ja": "ポニータ",
+    "name_en": "Ponyta",
+    "search_keywords": [
+      "ポニータ",
+      "Ponyta"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 78,
+    "name_ja": "ギャロップ",
+    "name_en": "Rapidash",
+    "search_keywords": [
+      "ギャロップ",
+      "Rapidash"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 79,
+    "name_ja": "ヤドン",
+    "name_en": "Slowpoke",
+    "search_keywords": [
+      "ヤドン",
+      "Slowpoke"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 80,
+    "name_ja": "ヤドラン",
+    "name_en": "Slowbro",
+    "search_keywords": [
+      "ヤドラン",
+      "Slowbro"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 81,
+    "name_ja": "コイル",
+    "name_en": "Magnemite",
+    "search_keywords": [
+      "コイル",
+      "Magnemite"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 82,
+    "name_ja": "レアコイル",
+    "name_en": "Magneton",
+    "search_keywords": [
+      "レアコイル",
+      "Magneton"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 83,
+    "name_ja": "カモネギ",
+    "name_en": "Farfetch’d",
+    "search_keywords": [
+      "カモネギ",
+      "Farfetch’d"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 84,
+    "name_ja": "ドードー",
+    "name_en": "Doduo",
+    "search_keywords": [
+      "ドードー",
+      "Doduo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 85,
+    "name_ja": "ドードリオ",
+    "name_en": "Dodrio",
+    "search_keywords": [
+      "ドードリオ",
+      "Dodrio"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 86,
+    "name_ja": "パウワウ",
+    "name_en": "Seel",
+    "search_keywords": [
+      "パウワウ",
+      "Seel"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 87,
+    "name_ja": "ジュゴン",
+    "name_en": "Dewgong",
+    "search_keywords": [
+      "ジュゴン",
+      "Dewgong"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 88,
+    "name_ja": "ベトベター",
+    "name_en": "Grimer",
+    "search_keywords": [
+      "ベトベター",
+      "Grimer"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 89,
+    "name_ja": "ベトベトン",
+    "name_en": "Muk",
+    "search_keywords": [
+      "ベトベトン",
+      "Muk"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 90,
+    "name_ja": "シェルダー",
+    "name_en": "Shellder",
+    "search_keywords": [
+      "シェルダー",
+      "Shellder"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 91,
+    "name_ja": "パルシェン",
+    "name_en": "Cloyster",
+    "search_keywords": [
+      "パルシェン",
+      "Cloyster"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 92,
+    "name_ja": "ゴース",
+    "name_en": "Gastly",
+    "search_keywords": [
+      "ゴース",
+      "Gastly"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 93,
+    "name_ja": "ゴースト",
+    "name_en": "Haunter",
+    "search_keywords": [
+      "ゴースト",
+      "Haunter"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 94,
+    "name_ja": "ゲンガー",
+    "name_en": "Gengar",
+    "search_keywords": [
+      "ゲンガー",
+      "Gengar"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 95,
+    "name_ja": "イワーク",
+    "name_en": "Onix",
+    "search_keywords": [
+      "イワーク",
+      "Onix"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 96,
+    "name_ja": "スリープ",
+    "name_en": "Drowzee",
+    "search_keywords": [
+      "スリープ",
+      "Drowzee"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 97,
+    "name_ja": "スリーパー",
+    "name_en": "Hypno",
+    "search_keywords": [
+      "スリーパー",
+      "Hypno"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 98,
+    "name_ja": "クラブ",
+    "name_en": "Krabby",
+    "search_keywords": [
+      "クラブ",
+      "Krabby"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 99,
+    "name_ja": "キングラー",
+    "name_en": "Kingler",
+    "search_keywords": [
+      "キングラー",
+      "Kingler"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 100,
+    "name_ja": "ビリリダマ",
+    "name_en": "Voltorb",
+    "search_keywords": [
+      "ビリリダマ",
+      "Voltorb"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 101,
+    "name_ja": "マルマイン",
+    "name_en": "Electrode",
+    "search_keywords": [
+      "マルマイン",
+      "Electrode"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 102,
+    "name_ja": "タマタマ",
+    "name_en": "Exeggcute",
+    "search_keywords": [
+      "タマタマ",
+      "Exeggcute"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 103,
+    "name_ja": "ナッシー",
+    "name_en": "Exeggutor",
+    "search_keywords": [
+      "ナッシー",
+      "Exeggutor"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 104,
+    "name_ja": "カラカラ",
+    "name_en": "Cubone",
+    "search_keywords": [
+      "カラカラ",
+      "Cubone"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 105,
+    "name_ja": "ガラガラ",
+    "name_en": "Marowak",
+    "search_keywords": [
+      "ガラガラ",
+      "Marowak"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 106,
+    "name_ja": "サワムラー",
+    "name_en": "Hitmonlee",
+    "search_keywords": [
+      "サワムラー",
+      "Hitmonlee"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 107,
+    "name_ja": "エビワラー",
+    "name_en": "Hitmonchan",
+    "search_keywords": [
+      "エビワラー",
+      "Hitmonchan"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 108,
+    "name_ja": "ベロリンガ",
+    "name_en": "Lickitung",
+    "search_keywords": [
+      "ベロリンガ",
+      "Lickitung"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 109,
+    "name_ja": "ドガース",
+    "name_en": "Koffing",
+    "search_keywords": [
+      "ドガース",
+      "Koffing"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 110,
+    "name_ja": "マタドガス",
+    "name_en": "Weezing",
+    "search_keywords": [
+      "マタドガス",
+      "Weezing"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 111,
+    "name_ja": "サイホーン",
+    "name_en": "Rhyhorn",
+    "search_keywords": [
+      "サイホーン",
+      "Rhyhorn"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 112,
+    "name_ja": "サイドン",
+    "name_en": "Rhydon",
+    "search_keywords": [
+      "サイドン",
+      "Rhydon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 113,
+    "name_ja": "ラッキー",
+    "name_en": "Chansey",
+    "search_keywords": [
+      "ラッキー",
+      "Chansey"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 114,
+    "name_ja": "モンジャラ",
+    "name_en": "Tangela",
+    "search_keywords": [
+      "モンジャラ",
+      "Tangela"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 115,
+    "name_ja": "ガルーラ",
+    "name_en": "Kangaskhan",
+    "search_keywords": [
+      "ガルーラ",
+      "Kangaskhan"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 116,
+    "name_ja": "タッツー",
+    "name_en": "Horsea",
+    "search_keywords": [
+      "タッツー",
+      "Horsea"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 117,
+    "name_ja": "シードラ",
+    "name_en": "Seadra",
+    "search_keywords": [
+      "シードラ",
+      "Seadra"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 118,
+    "name_ja": "トサキント",
+    "name_en": "Goldeen",
+    "search_keywords": [
+      "トサキント",
+      "Goldeen"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 119,
+    "name_ja": "アズマオウ",
+    "name_en": "Seaking",
+    "search_keywords": [
+      "アズマオウ",
+      "Seaking"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 120,
+    "name_ja": "ヒトデマン",
+    "name_en": "Staryu",
+    "search_keywords": [
+      "ヒトデマン",
+      "Staryu"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 121,
+    "name_ja": "スターミー",
+    "name_en": "Starmie",
+    "search_keywords": [
+      "スターミー",
+      "Starmie"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 122,
+    "name_ja": "バリヤード",
+    "name_en": "Mr. Mime",
+    "search_keywords": [
+      "バリヤード",
+      "Mr. Mime"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 123,
+    "name_ja": "ストライク",
+    "name_en": "Scyther",
+    "search_keywords": [
+      "ストライク",
+      "Scyther"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 124,
+    "name_ja": "ルージュラ",
+    "name_en": "Jynx",
+    "search_keywords": [
+      "ルージュラ",
+      "Jynx"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 125,
+    "name_ja": "エレブー",
+    "name_en": "Electabuzz",
+    "search_keywords": [
+      "エレブー",
+      "Electabuzz"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 126,
+    "name_ja": "ブーバー",
+    "name_en": "Magmar",
+    "search_keywords": [
+      "ブーバー",
+      "Magmar"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 127,
+    "name_ja": "カイロス",
+    "name_en": "Pinsir",
+    "search_keywords": [
+      "カイロス",
+      "Pinsir"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 128,
+    "name_ja": "ケンタロス",
+    "name_en": "Tauros",
+    "search_keywords": [
+      "ケンタロス",
+      "Tauros"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 129,
+    "name_ja": "コイキング",
+    "name_en": "Magikarp",
+    "search_keywords": [
+      "コイキング",
+      "Magikarp"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 130,
+    "name_ja": "ギャラドス",
+    "name_en": "Gyarados",
+    "search_keywords": [
+      "ギャラドス",
+      "Gyarados"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 131,
+    "name_ja": "ラプラス",
+    "name_en": "Lapras",
+    "search_keywords": [
+      "ラプラス",
+      "Lapras"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 132,
+    "name_ja": "メタモン",
+    "name_en": "Ditto",
+    "search_keywords": [
+      "メタモン",
+      "Ditto"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 133,
+    "name_ja": "イーブイ",
+    "name_en": "Eevee",
+    "search_keywords": [
+      "イーブイ",
+      "Eevee"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 134,
+    "name_ja": "シャワーズ",
+    "name_en": "Vaporeon",
+    "search_keywords": [
+      "シャワーズ",
+      "Vaporeon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 135,
+    "name_ja": "サンダース",
+    "name_en": "Jolteon",
+    "search_keywords": [
+      "サンダース",
+      "Jolteon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 136,
+    "name_ja": "ブースター",
+    "name_en": "Flareon",
+    "search_keywords": [
+      "ブースター",
+      "Flareon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 137,
+    "name_ja": "ポリゴン",
+    "name_en": "Porygon",
+    "search_keywords": [
+      "ポリゴン",
+      "Porygon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 138,
+    "name_ja": "オムナイト",
+    "name_en": "Omanyte",
+    "search_keywords": [
+      "オムナイト",
+      "Omanyte"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 139,
+    "name_ja": "オムスター",
+    "name_en": "Omastar",
+    "search_keywords": [
+      "オムスター",
+      "Omastar"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 140,
+    "name_ja": "カブト",
+    "name_en": "Kabuto",
+    "search_keywords": [
+      "カブト",
+      "Kabuto"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 141,
+    "name_ja": "カブトプス",
+    "name_en": "Kabutops",
+    "search_keywords": [
+      "カブトプス",
+      "Kabutops"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 142,
+    "name_ja": "プテラ",
+    "name_en": "Aerodactyl",
+    "search_keywords": [
+      "プテラ",
+      "Aerodactyl"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 143,
+    "name_ja": "カビゴン",
+    "name_en": "Snorlax",
+    "search_keywords": [
+      "カビゴン",
+      "Snorlax"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 144,
+    "name_ja": "フリーザー",
+    "name_en": "Articuno",
+    "search_keywords": [
+      "フリーザー",
+      "Articuno"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 145,
+    "name_ja": "サンダー",
+    "name_en": "Zapdos",
+    "search_keywords": [
+      "サンダー",
+      "Zapdos"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 146,
+    "name_ja": "ファイヤー",
+    "name_en": "Moltres",
+    "search_keywords": [
+      "ファイヤー",
+      "Moltres"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 147,
+    "name_ja": "ミニリュウ",
+    "name_en": "Dratini",
+    "search_keywords": [
+      "ミニリュウ",
+      "Dratini"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 148,
+    "name_ja": "ハクリュー",
+    "name_en": "Dragonair",
+    "search_keywords": [
+      "ハクリュー",
+      "Dragonair"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 149,
+    "name_ja": "カイリュー",
+    "name_en": "Dragonite",
+    "search_keywords": [
+      "カイリュー",
+      "Dragonite"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 150,
+    "name_ja": "ミュウツー",
+    "name_en": "Mewtwo",
+    "search_keywords": [
+      "ミュウツー",
+      "Mewtwo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 151,
+    "name_ja": "ミュウ",
+    "name_en": "Mew",
+    "search_keywords": [
+      "ミュウ",
+      "Mew"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 152,
+    "name_ja": "チコリータ",
+    "name_en": "Chikorita",
+    "search_keywords": [
+      "チコリータ",
+      "Chikorita"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 153,
+    "name_ja": "ベイリーフ",
+    "name_en": "Bayleef",
+    "search_keywords": [
+      "ベイリーフ",
+      "Bayleef"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 154,
+    "name_ja": "メガニウム",
+    "name_en": "Meganium",
+    "search_keywords": [
+      "メガニウム",
+      "Meganium"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 155,
+    "name_ja": "ヒノアラシ",
+    "name_en": "Cyndaquil",
+    "search_keywords": [
+      "ヒノアラシ",
+      "Cyndaquil"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 156,
+    "name_ja": "マグマラシ",
+    "name_en": "Quilava",
+    "search_keywords": [
+      "マグマラシ",
+      "Quilava"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 157,
+    "name_ja": "バクフーン",
+    "name_en": "Typhlosion",
+    "search_keywords": [
+      "バクフーン",
+      "Typhlosion"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 158,
+    "name_ja": "ワニノコ",
+    "name_en": "Totodile",
+    "search_keywords": [
+      "ワニノコ",
+      "Totodile"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 159,
+    "name_ja": "アリゲイツ",
+    "name_en": "Croconaw",
+    "search_keywords": [
+      "アリゲイツ",
+      "Croconaw"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 160,
+    "name_ja": "オーダイル",
+    "name_en": "Feraligatr",
+    "search_keywords": [
+      "オーダイル",
+      "Feraligatr"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 161,
+    "name_ja": "オタチ",
+    "name_en": "Sentret",
+    "search_keywords": [
+      "オタチ",
+      "Sentret"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 162,
+    "name_ja": "オオタチ",
+    "name_en": "Furret",
+    "search_keywords": [
+      "オオタチ",
+      "Furret"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 163,
+    "name_ja": "ホーホー",
+    "name_en": "Hoothoot",
+    "search_keywords": [
+      "ホーホー",
+      "Hoothoot"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 164,
+    "name_ja": "ヨルノズク",
+    "name_en": "Noctowl",
+    "search_keywords": [
+      "ヨルノズク",
+      "Noctowl"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 165,
+    "name_ja": "レディバ",
+    "name_en": "Ledyba",
+    "search_keywords": [
+      "レディバ",
+      "Ledyba"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 166,
+    "name_ja": "レディアン",
+    "name_en": "Ledian",
+    "search_keywords": [
+      "レディアン",
+      "Ledian"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 167,
+    "name_ja": "イトマル",
+    "name_en": "Spinarak",
+    "search_keywords": [
+      "イトマル",
+      "Spinarak"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 168,
+    "name_ja": "アリアドス",
+    "name_en": "Ariados",
+    "search_keywords": [
+      "アリアドス",
+      "Ariados"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 169,
+    "name_ja": "クロバット",
+    "name_en": "Crobat",
+    "search_keywords": [
+      "クロバット",
+      "Crobat"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 170,
+    "name_ja": "チョンチー",
+    "name_en": "Chinchou",
+    "search_keywords": [
+      "チョンチー",
+      "Chinchou"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 171,
+    "name_ja": "ランターン",
+    "name_en": "Lanturn",
+    "search_keywords": [
+      "ランターン",
+      "Lanturn"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 172,
+    "name_ja": "ピチュー",
+    "name_en": "Pichu",
+    "search_keywords": [
+      "ピチュー",
+      "Pichu"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 173,
+    "name_ja": "ピィ",
+    "name_en": "Cleffa",
+    "search_keywords": [
+      "ピィ",
+      "Cleffa"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 174,
+    "name_ja": "ププリン",
+    "name_en": "Igglybuff",
+    "search_keywords": [
+      "ププリン",
+      "Igglybuff"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 175,
+    "name_ja": "トゲピー",
+    "name_en": "Togepi",
+    "search_keywords": [
+      "トゲピー",
+      "Togepi"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 176,
+    "name_ja": "トゲチック",
+    "name_en": "Togetic",
+    "search_keywords": [
+      "トゲチック",
+      "Togetic"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 177,
+    "name_ja": "ネイティ",
+    "name_en": "Natu",
+    "search_keywords": [
+      "ネイティ",
+      "Natu"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 178,
+    "name_ja": "ネイティオ",
+    "name_en": "Xatu",
+    "search_keywords": [
+      "ネイティオ",
+      "Xatu"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 179,
+    "name_ja": "メリープ",
+    "name_en": "Mareep",
+    "search_keywords": [
+      "メリープ",
+      "Mareep"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 180,
+    "name_ja": "モココ",
+    "name_en": "Flaaffy",
+    "search_keywords": [
+      "モココ",
+      "Flaaffy"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 181,
+    "name_ja": "デンリュウ",
+    "name_en": "Ampharos",
+    "search_keywords": [
+      "デンリュウ",
+      "Ampharos"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 182,
+    "name_ja": "キレイハナ",
+    "name_en": "Bellossom",
+    "search_keywords": [
+      "キレイハナ",
+      "Bellossom"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 183,
+    "name_ja": "マリル",
+    "name_en": "Marill",
+    "search_keywords": [
+      "マリル",
+      "Marill"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 184,
+    "name_ja": "マリルリ",
+    "name_en": "Azumarill",
+    "search_keywords": [
+      "マリルリ",
+      "Azumarill"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 185,
+    "name_ja": "ウソッキー",
+    "name_en": "Sudowoodo",
+    "search_keywords": [
+      "ウソッキー",
+      "Sudowoodo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 186,
+    "name_ja": "ニョロトノ",
+    "name_en": "Politoed",
+    "search_keywords": [
+      "ニョロトノ",
+      "Politoed"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 187,
+    "name_ja": "ハネッコ",
+    "name_en": "Hoppip",
+    "search_keywords": [
+      "ハネッコ",
+      "Hoppip"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 188,
+    "name_ja": "ポポッコ",
+    "name_en": "Skiploom",
+    "search_keywords": [
+      "ポポッコ",
+      "Skiploom"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 189,
+    "name_ja": "ワタッコ",
+    "name_en": "Jumpluff",
+    "search_keywords": [
+      "ワタッコ",
+      "Jumpluff"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 190,
+    "name_ja": "エイパム",
+    "name_en": "Aipom",
+    "search_keywords": [
+      "エイパム",
+      "Aipom"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 191,
+    "name_ja": "ヒマナッツ",
+    "name_en": "Sunkern",
+    "search_keywords": [
+      "ヒマナッツ",
+      "Sunkern"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 192,
+    "name_ja": "キマワリ",
+    "name_en": "Sunflora",
+    "search_keywords": [
+      "キマワリ",
+      "Sunflora"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 193,
+    "name_ja": "ヤンヤンマ",
+    "name_en": "Yanma",
+    "search_keywords": [
+      "ヤンヤンマ",
+      "Yanma"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 194,
+    "name_ja": "ウパー",
+    "name_en": "Wooper",
+    "search_keywords": [
+      "ウパー",
+      "Wooper"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 195,
+    "name_ja": "ヌオー",
+    "name_en": "Quagsire",
+    "search_keywords": [
+      "ヌオー",
+      "Quagsire"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 196,
+    "name_ja": "エーフィ",
+    "name_en": "Espeon",
+    "search_keywords": [
+      "エーフィ",
+      "Espeon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 197,
+    "name_ja": "ブラッキー",
+    "name_en": "Umbreon",
+    "search_keywords": [
+      "ブラッキー",
+      "Umbreon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 198,
+    "name_ja": "ヤミカラス",
+    "name_en": "Murkrow",
+    "search_keywords": [
+      "ヤミカラス",
+      "Murkrow"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 199,
+    "name_ja": "ヤドキング",
+    "name_en": "Slowking",
+    "search_keywords": [
+      "ヤドキング",
+      "Slowking"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 200,
+    "name_ja": "ムウマ",
+    "name_en": "Misdreavus",
+    "search_keywords": [
+      "ムウマ",
+      "Misdreavus"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 201,
+    "name_ja": "アンノーン",
+    "name_en": "Unown",
+    "search_keywords": [
+      "アンノーン",
+      "Unown"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 202,
+    "name_ja": "ソーナンス",
+    "name_en": "Wobbuffet",
+    "search_keywords": [
+      "ソーナンス",
+      "Wobbuffet"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 203,
+    "name_ja": "キリンリキ",
+    "name_en": "Girafarig",
+    "search_keywords": [
+      "キリンリキ",
+      "Girafarig"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 204,
+    "name_ja": "クヌギダマ",
+    "name_en": "Pineco",
+    "search_keywords": [
+      "クヌギダマ",
+      "Pineco"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 205,
+    "name_ja": "フォレトス",
+    "name_en": "Forretress",
+    "search_keywords": [
+      "フォレトス",
+      "Forretress"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 206,
+    "name_ja": "ノコッチ",
+    "name_en": "Dunsparce",
+    "search_keywords": [
+      "ノコッチ",
+      "Dunsparce"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 207,
+    "name_ja": "グライガー",
+    "name_en": "Gligar",
+    "search_keywords": [
+      "グライガー",
+      "Gligar"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 208,
+    "name_ja": "ハガネール",
+    "name_en": "Steelix",
+    "search_keywords": [
+      "ハガネール",
+      "Steelix"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 209,
+    "name_ja": "ブルー",
+    "name_en": "Snubbull",
+    "search_keywords": [
+      "ブルー",
+      "Snubbull"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 210,
+    "name_ja": "グランブル",
+    "name_en": "Granbull",
+    "search_keywords": [
+      "グランブル",
+      "Granbull"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 211,
+    "name_ja": "ハリーセン",
+    "name_en": "Qwilfish",
+    "search_keywords": [
+      "ハリーセン",
+      "Qwilfish"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 212,
+    "name_ja": "ハッサム",
+    "name_en": "Scizor",
+    "search_keywords": [
+      "ハッサム",
+      "Scizor"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 213,
+    "name_ja": "ツボツボ",
+    "name_en": "Shuckle",
+    "search_keywords": [
+      "ツボツボ",
+      "Shuckle"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 214,
+    "name_ja": "ヘラクロス",
+    "name_en": "Heracross",
+    "search_keywords": [
+      "ヘラクロス",
+      "Heracross"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 215,
+    "name_ja": "ニューラ",
+    "name_en": "Sneasel",
+    "search_keywords": [
+      "ニューラ",
+      "Sneasel"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 216,
+    "name_ja": "ヒメグマ",
+    "name_en": "Teddiursa",
+    "search_keywords": [
+      "ヒメグマ",
+      "Teddiursa"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 217,
+    "name_ja": "リングマ",
+    "name_en": "Ursaring",
+    "search_keywords": [
+      "リングマ",
+      "Ursaring"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 218,
+    "name_ja": "マグマッグ",
+    "name_en": "Slugma",
+    "search_keywords": [
+      "マグマッグ",
+      "Slugma"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 219,
+    "name_ja": "マグカルゴ",
+    "name_en": "Magcargo",
+    "search_keywords": [
+      "マグカルゴ",
+      "Magcargo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 220,
+    "name_ja": "ウリムー",
+    "name_en": "Swinub",
+    "search_keywords": [
+      "ウリムー",
+      "Swinub"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 221,
+    "name_ja": "イノムー",
+    "name_en": "Piloswine",
+    "search_keywords": [
+      "イノムー",
+      "Piloswine"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 222,
+    "name_ja": "サニーゴ",
+    "name_en": "Corsola",
+    "search_keywords": [
+      "サニーゴ",
+      "Corsola"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 223,
+    "name_ja": "テッポウオ",
+    "name_en": "Remoraid",
+    "search_keywords": [
+      "テッポウオ",
+      "Remoraid"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 224,
+    "name_ja": "オクタン",
+    "name_en": "Octillery",
+    "search_keywords": [
+      "オクタン",
+      "Octillery"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 225,
+    "name_ja": "デリバード",
+    "name_en": "Delibird",
+    "search_keywords": [
+      "デリバード",
+      "Delibird"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 226,
+    "name_ja": "マンタイン",
+    "name_en": "Mantine",
+    "search_keywords": [
+      "マンタイン",
+      "Mantine"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 227,
+    "name_ja": "エアームド",
+    "name_en": "Skarmory",
+    "search_keywords": [
+      "エアームド",
+      "Skarmory"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 228,
+    "name_ja": "デルビル",
+    "name_en": "Houndour",
+    "search_keywords": [
+      "デルビル",
+      "Houndour"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 229,
+    "name_ja": "ヘルガー",
+    "name_en": "Houndoom",
+    "search_keywords": [
+      "ヘルガー",
+      "Houndoom"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 230,
+    "name_ja": "キングドラ",
+    "name_en": "Kingdra",
+    "search_keywords": [
+      "キングドラ",
+      "Kingdra"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 231,
+    "name_ja": "ゴマゾウ",
+    "name_en": "Phanpy",
+    "search_keywords": [
+      "ゴマゾウ",
+      "Phanpy"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 232,
+    "name_ja": "ドンファン",
+    "name_en": "Donphan",
+    "search_keywords": [
+      "ドンファン",
+      "Donphan"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 233,
+    "name_ja": "ポリゴン２",
+    "name_en": "Porygon2",
+    "search_keywords": [
+      "ポリゴン２",
+      "Porygon2"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 234,
+    "name_ja": "オドシシ",
+    "name_en": "Stantler",
+    "search_keywords": [
+      "オドシシ",
+      "Stantler"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 235,
+    "name_ja": "ドーブル",
+    "name_en": "Smeargle",
+    "search_keywords": [
+      "ドーブル",
+      "Smeargle"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 236,
+    "name_ja": "バルキー",
+    "name_en": "Tyrogue",
+    "search_keywords": [
+      "バルキー",
+      "Tyrogue"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 237,
+    "name_ja": "カポエラー",
+    "name_en": "Hitmontop",
+    "search_keywords": [
+      "カポエラー",
+      "Hitmontop"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 238,
+    "name_ja": "ムチュール",
+    "name_en": "Smoochum",
+    "search_keywords": [
+      "ムチュール",
+      "Smoochum"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 239,
+    "name_ja": "エレキッド",
+    "name_en": "Elekid",
+    "search_keywords": [
+      "エレキッド",
+      "Elekid"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 240,
+    "name_ja": "ブビィ",
+    "name_en": "Magby",
+    "search_keywords": [
+      "ブビィ",
+      "Magby"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 241,
+    "name_ja": "ミルタンク",
+    "name_en": "Miltank",
+    "search_keywords": [
+      "ミルタンク",
+      "Miltank"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 242,
+    "name_ja": "ハピナス",
+    "name_en": "Blissey",
+    "search_keywords": [
+      "ハピナス",
+      "Blissey"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 243,
+    "name_ja": "ライコウ",
+    "name_en": "Raikou",
+    "search_keywords": [
+      "ライコウ",
+      "Raikou"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 244,
+    "name_ja": "エンテイ",
+    "name_en": "Entei",
+    "search_keywords": [
+      "エンテイ",
+      "Entei"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 245,
+    "name_ja": "スイクン",
+    "name_en": "Suicune",
+    "search_keywords": [
+      "スイクン",
+      "Suicune"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 246,
+    "name_ja": "ヨーギラス",
+    "name_en": "Larvitar",
+    "search_keywords": [
+      "ヨーギラス",
+      "Larvitar"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 247,
+    "name_ja": "サナギラス",
+    "name_en": "Pupitar",
+    "search_keywords": [
+      "サナギラス",
+      "Pupitar"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 248,
+    "name_ja": "バンギラス",
+    "name_en": "Tyranitar",
+    "search_keywords": [
+      "バンギラス",
+      "Tyranitar"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 249,
+    "name_ja": "ルギア",
+    "name_en": "Lugia",
+    "search_keywords": [
+      "ルギア",
+      "Lugia"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 250,
+    "name_ja": "ホウオウ",
+    "name_en": "Ho-Oh",
+    "search_keywords": [
+      "ホウオウ",
+      "Ho-Oh"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 251,
+    "name_ja": "セレビィ",
+    "name_en": "Celebi",
+    "search_keywords": [
+      "セレビィ",
+      "Celebi"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 252,
+    "name_ja": "キモリ",
+    "name_en": "Treecko",
+    "search_keywords": [
+      "キモリ",
+      "Treecko"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 253,
+    "name_ja": "ジュプトル",
+    "name_en": "Grovyle",
+    "search_keywords": [
+      "ジュプトル",
+      "Grovyle"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 254,
+    "name_ja": "ジュカイン",
+    "name_en": "Sceptile",
+    "search_keywords": [
+      "ジュカイン",
+      "Sceptile"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 255,
+    "name_ja": "アチャモ",
+    "name_en": "Torchic",
+    "search_keywords": [
+      "アチャモ",
+      "Torchic"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 256,
+    "name_ja": "ワカシャモ",
+    "name_en": "Combusken",
+    "search_keywords": [
+      "ワカシャモ",
+      "Combusken"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 257,
+    "name_ja": "バシャーモ",
+    "name_en": "Blaziken",
+    "search_keywords": [
+      "バシャーモ",
+      "Blaziken"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 258,
+    "name_ja": "ミズゴロウ",
+    "name_en": "Mudkip",
+    "search_keywords": [
+      "ミズゴロウ",
+      "Mudkip"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 259,
+    "name_ja": "ヌマクロー",
+    "name_en": "Marshtomp",
+    "search_keywords": [
+      "ヌマクロー",
+      "Marshtomp"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 260,
+    "name_ja": "ラグラージ",
+    "name_en": "Swampert",
+    "search_keywords": [
+      "ラグラージ",
+      "Swampert"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 261,
+    "name_ja": "ポチエナ",
+    "name_en": "Poochyena",
+    "search_keywords": [
+      "ポチエナ",
+      "Poochyena"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 262,
+    "name_ja": "グラエナ",
+    "name_en": "Mightyena",
+    "search_keywords": [
+      "グラエナ",
+      "Mightyena"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 263,
+    "name_ja": "ジグザグマ",
+    "name_en": "Zigzagoon",
+    "search_keywords": [
+      "ジグザグマ",
+      "Zigzagoon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 264,
+    "name_ja": "マッスグマ",
+    "name_en": "Linoone",
+    "search_keywords": [
+      "マッスグマ",
+      "Linoone"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 265,
+    "name_ja": "ケムッソ",
+    "name_en": "Wurmple",
+    "search_keywords": [
+      "ケムッソ",
+      "Wurmple"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 266,
+    "name_ja": "カラサリス",
+    "name_en": "Silcoon",
+    "search_keywords": [
+      "カラサリス",
+      "Silcoon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 267,
+    "name_ja": "アゲハント",
+    "name_en": "Beautifly",
+    "search_keywords": [
+      "アゲハント",
+      "Beautifly"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 268,
+    "name_ja": "マユルド",
+    "name_en": "Cascoon",
+    "search_keywords": [
+      "マユルド",
+      "Cascoon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 269,
+    "name_ja": "ドクケイル",
+    "name_en": "Dustox",
+    "search_keywords": [
+      "ドクケイル",
+      "Dustox"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 270,
+    "name_ja": "ハスボー",
+    "name_en": "Lotad",
+    "search_keywords": [
+      "ハスボー",
+      "Lotad"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 271,
+    "name_ja": "ハスブレロ",
+    "name_en": "Lombre",
+    "search_keywords": [
+      "ハスブレロ",
+      "Lombre"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 272,
+    "name_ja": "ルンパッパ",
+    "name_en": "Ludicolo",
+    "search_keywords": [
+      "ルンパッパ",
+      "Ludicolo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 273,
+    "name_ja": "タネボー",
+    "name_en": "Seedot",
+    "search_keywords": [
+      "タネボー",
+      "Seedot"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 274,
+    "name_ja": "コノハナ",
+    "name_en": "Nuzleaf",
+    "search_keywords": [
+      "コノハナ",
+      "Nuzleaf"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 275,
+    "name_ja": "ダーテング",
+    "name_en": "Shiftry",
+    "search_keywords": [
+      "ダーテング",
+      "Shiftry"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 276,
+    "name_ja": "スバメ",
+    "name_en": "Taillow",
+    "search_keywords": [
+      "スバメ",
+      "Taillow"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 277,
+    "name_ja": "オオスバメ",
+    "name_en": "Swellow",
+    "search_keywords": [
+      "オオスバメ",
+      "Swellow"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 278,
+    "name_ja": "キャモメ",
+    "name_en": "Wingull",
+    "search_keywords": [
+      "キャモメ",
+      "Wingull"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 279,
+    "name_ja": "ペリッパー",
+    "name_en": "Pelipper",
+    "search_keywords": [
+      "ペリッパー",
+      "Pelipper"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 280,
+    "name_ja": "ラルトス",
+    "name_en": "Ralts",
+    "search_keywords": [
+      "ラルトス",
+      "Ralts"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 281,
+    "name_ja": "キルリア",
+    "name_en": "Kirlia",
+    "search_keywords": [
+      "キルリア",
+      "Kirlia"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 282,
+    "name_ja": "サーナイト",
+    "name_en": "Gardevoir",
+    "search_keywords": [
+      "サーナイト",
+      "Gardevoir"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 283,
+    "name_ja": "アメタマ",
+    "name_en": "Surskit",
+    "search_keywords": [
+      "アメタマ",
+      "Surskit"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 284,
+    "name_ja": "アメモース",
+    "name_en": "Masquerain",
+    "search_keywords": [
+      "アメモース",
+      "Masquerain"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 285,
+    "name_ja": "キノココ",
+    "name_en": "Shroomish",
+    "search_keywords": [
+      "キノココ",
+      "Shroomish"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 286,
+    "name_ja": "キノガッサ",
+    "name_en": "Breloom",
+    "search_keywords": [
+      "キノガッサ",
+      "Breloom"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 287,
+    "name_ja": "ナマケロ",
+    "name_en": "Slakoth",
+    "search_keywords": [
+      "ナマケロ",
+      "Slakoth"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 288,
+    "name_ja": "ヤルキモノ",
+    "name_en": "Vigoroth",
+    "search_keywords": [
+      "ヤルキモノ",
+      "Vigoroth"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 289,
+    "name_ja": "ケッキング",
+    "name_en": "Slaking",
+    "search_keywords": [
+      "ケッキング",
+      "Slaking"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 290,
+    "name_ja": "ツチニン",
+    "name_en": "Nincada",
+    "search_keywords": [
+      "ツチニン",
+      "Nincada"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 291,
+    "name_ja": "テッカニン",
+    "name_en": "Ninjask",
+    "search_keywords": [
+      "テッカニン",
+      "Ninjask"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 292,
+    "name_ja": "ヌケニン",
+    "name_en": "Shedinja",
+    "search_keywords": [
+      "ヌケニン",
+      "Shedinja"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 293,
+    "name_ja": "ゴニョニョ",
+    "name_en": "Whismur",
+    "search_keywords": [
+      "ゴニョニョ",
+      "Whismur"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 294,
+    "name_ja": "ドゴーム",
+    "name_en": "Loudred",
+    "search_keywords": [
+      "ドゴーム",
+      "Loudred"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 295,
+    "name_ja": "バクオング",
+    "name_en": "Exploud",
+    "search_keywords": [
+      "バクオング",
+      "Exploud"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 296,
+    "name_ja": "マクノシタ",
+    "name_en": "Makuhita",
+    "search_keywords": [
+      "マクノシタ",
+      "Makuhita"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 297,
+    "name_ja": "ハリテヤマ",
+    "name_en": "Hariyama",
+    "search_keywords": [
+      "ハリテヤマ",
+      "Hariyama"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 298,
+    "name_ja": "ルリリ",
+    "name_en": "Azurill",
+    "search_keywords": [
+      "ルリリ",
+      "Azurill"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 299,
+    "name_ja": "ノズパス",
+    "name_en": "Nosepass",
+    "search_keywords": [
+      "ノズパス",
+      "Nosepass"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 300,
+    "name_ja": "エネコ",
+    "name_en": "Skitty",
+    "search_keywords": [
+      "エネコ",
+      "Skitty"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 301,
+    "name_ja": "エネコロロ",
+    "name_en": "Delcatty",
+    "search_keywords": [
+      "エネコロロ",
+      "Delcatty"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 302,
+    "name_ja": "ヤミラミ",
+    "name_en": "Sableye",
+    "search_keywords": [
+      "ヤミラミ",
+      "Sableye"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 303,
+    "name_ja": "クチート",
+    "name_en": "Mawile",
+    "search_keywords": [
+      "クチート",
+      "Mawile"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 304,
+    "name_ja": "ココドラ",
+    "name_en": "Aron",
+    "search_keywords": [
+      "ココドラ",
+      "Aron"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 305,
+    "name_ja": "コドラ",
+    "name_en": "Lairon",
+    "search_keywords": [
+      "コドラ",
+      "Lairon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 306,
+    "name_ja": "ボスゴドラ",
+    "name_en": "Aggron",
+    "search_keywords": [
+      "ボスゴドラ",
+      "Aggron"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 307,
+    "name_ja": "アサナン",
+    "name_en": "Meditite",
+    "search_keywords": [
+      "アサナン",
+      "Meditite"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 308,
+    "name_ja": "チャーレム",
+    "name_en": "Medicham",
+    "search_keywords": [
+      "チャーレム",
+      "Medicham"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 309,
+    "name_ja": "ラクライ",
+    "name_en": "Electrike",
+    "search_keywords": [
+      "ラクライ",
+      "Electrike"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 310,
+    "name_ja": "ライボルト",
+    "name_en": "Manectric",
+    "search_keywords": [
+      "ライボルト",
+      "Manectric"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 311,
+    "name_ja": "プラスル",
+    "name_en": "Plusle",
+    "search_keywords": [
+      "プラスル",
+      "Plusle"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 312,
+    "name_ja": "マイナン",
+    "name_en": "Minun",
+    "search_keywords": [
+      "マイナン",
+      "Minun"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 313,
+    "name_ja": "バルビート",
+    "name_en": "Volbeat",
+    "search_keywords": [
+      "バルビート",
+      "Volbeat"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 314,
+    "name_ja": "イルミーゼ",
+    "name_en": "Illumise",
+    "search_keywords": [
+      "イルミーゼ",
+      "Illumise"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 315,
+    "name_ja": "ロゼリア",
+    "name_en": "Roselia",
+    "search_keywords": [
+      "ロゼリア",
+      "Roselia"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 316,
+    "name_ja": "ゴクリン",
+    "name_en": "Gulpin",
+    "search_keywords": [
+      "ゴクリン",
+      "Gulpin"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 317,
+    "name_ja": "マルノーム",
+    "name_en": "Swalot",
+    "search_keywords": [
+      "マルノーム",
+      "Swalot"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 318,
+    "name_ja": "キバニア",
+    "name_en": "Carvanha",
+    "search_keywords": [
+      "キバニア",
+      "Carvanha"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 319,
+    "name_ja": "サメハダー",
+    "name_en": "Sharpedo",
+    "search_keywords": [
+      "サメハダー",
+      "Sharpedo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 320,
+    "name_ja": "ホエルコ",
+    "name_en": "Wailmer",
+    "search_keywords": [
+      "ホエルコ",
+      "Wailmer"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 321,
+    "name_ja": "ホエルオー",
+    "name_en": "Wailord",
+    "search_keywords": [
+      "ホエルオー",
+      "Wailord"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 322,
+    "name_ja": "ドンメル",
+    "name_en": "Numel",
+    "search_keywords": [
+      "ドンメル",
+      "Numel"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 323,
+    "name_ja": "バクーダ",
+    "name_en": "Camerupt",
+    "search_keywords": [
+      "バクーダ",
+      "Camerupt"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 324,
+    "name_ja": "コータス",
+    "name_en": "Torkoal",
+    "search_keywords": [
+      "コータス",
+      "Torkoal"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 325,
+    "name_ja": "バネブー",
+    "name_en": "Spoink",
+    "search_keywords": [
+      "バネブー",
+      "Spoink"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 326,
+    "name_ja": "ブーピッグ",
+    "name_en": "Grumpig",
+    "search_keywords": [
+      "ブーピッグ",
+      "Grumpig"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 327,
+    "name_ja": "パッチール",
+    "name_en": "Spinda",
+    "search_keywords": [
+      "パッチール",
+      "Spinda"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 328,
+    "name_ja": "ナックラー",
+    "name_en": "Trapinch",
+    "search_keywords": [
+      "ナックラー",
+      "Trapinch"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 329,
+    "name_ja": "ビブラーバ",
+    "name_en": "Vibrava",
+    "search_keywords": [
+      "ビブラーバ",
+      "Vibrava"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 330,
+    "name_ja": "フライゴン",
+    "name_en": "Flygon",
+    "search_keywords": [
+      "フライゴン",
+      "Flygon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 331,
+    "name_ja": "サボネア",
+    "name_en": "Cacnea",
+    "search_keywords": [
+      "サボネア",
+      "Cacnea"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 332,
+    "name_ja": "ノクタス",
+    "name_en": "Cacturne",
+    "search_keywords": [
+      "ノクタス",
+      "Cacturne"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 333,
+    "name_ja": "チルット",
+    "name_en": "Swablu",
+    "search_keywords": [
+      "チルット",
+      "Swablu"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 334,
+    "name_ja": "チルタリス",
+    "name_en": "Altaria",
+    "search_keywords": [
+      "チルタリス",
+      "Altaria"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 335,
+    "name_ja": "ザングース",
+    "name_en": "Zangoose",
+    "search_keywords": [
+      "ザングース",
+      "Zangoose"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 336,
+    "name_ja": "ハブネーク",
+    "name_en": "Seviper",
+    "search_keywords": [
+      "ハブネーク",
+      "Seviper"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 337,
+    "name_ja": "ルナトーン",
+    "name_en": "Lunatone",
+    "search_keywords": [
+      "ルナトーン",
+      "Lunatone"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 338,
+    "name_ja": "ソルロック",
+    "name_en": "Solrock",
+    "search_keywords": [
+      "ソルロック",
+      "Solrock"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 339,
+    "name_ja": "ドジョッチ",
+    "name_en": "Barboach",
+    "search_keywords": [
+      "ドジョッチ",
+      "Barboach"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 340,
+    "name_ja": "ナマズン",
+    "name_en": "Whiscash",
+    "search_keywords": [
+      "ナマズン",
+      "Whiscash"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 341,
+    "name_ja": "ヘイガニ",
+    "name_en": "Corphish",
+    "search_keywords": [
+      "ヘイガニ",
+      "Corphish"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 342,
+    "name_ja": "シザリガー",
+    "name_en": "Crawdaunt",
+    "search_keywords": [
+      "シザリガー",
+      "Crawdaunt"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 343,
+    "name_ja": "ヤジロン",
+    "name_en": "Baltoy",
+    "search_keywords": [
+      "ヤジロン",
+      "Baltoy"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 344,
+    "name_ja": "ネンドール",
+    "name_en": "Claydol",
+    "search_keywords": [
+      "ネンドール",
+      "Claydol"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 345,
+    "name_ja": "リリーラ",
+    "name_en": "Lileep",
+    "search_keywords": [
+      "リリーラ",
+      "Lileep"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 346,
+    "name_ja": "ユレイドル",
+    "name_en": "Cradily",
+    "search_keywords": [
+      "ユレイドル",
+      "Cradily"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 347,
+    "name_ja": "アノプス",
+    "name_en": "Anorith",
+    "search_keywords": [
+      "アノプス",
+      "Anorith"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 348,
+    "name_ja": "アーマルド",
+    "name_en": "Armaldo",
+    "search_keywords": [
+      "アーマルド",
+      "Armaldo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 349,
+    "name_ja": "ヒンバス",
+    "name_en": "Feebas",
+    "search_keywords": [
+      "ヒンバス",
+      "Feebas"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 350,
+    "name_ja": "ミロカロス",
+    "name_en": "Milotic",
+    "search_keywords": [
+      "ミロカロス",
+      "Milotic"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 351,
+    "name_ja": "ポワルン",
+    "name_en": "Castform",
+    "search_keywords": [
+      "ポワルン",
+      "Castform"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 352,
+    "name_ja": "カクレオン",
+    "name_en": "Kecleon",
+    "search_keywords": [
+      "カクレオン",
+      "Kecleon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 353,
+    "name_ja": "カゲボウズ",
+    "name_en": "Shuppet",
+    "search_keywords": [
+      "カゲボウズ",
+      "Shuppet"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 354,
+    "name_ja": "ジュペッタ",
+    "name_en": "Banette",
+    "search_keywords": [
+      "ジュペッタ",
+      "Banette"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 355,
+    "name_ja": "ヨマワル",
+    "name_en": "Duskull",
+    "search_keywords": [
+      "ヨマワル",
+      "Duskull"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 356,
+    "name_ja": "サマヨール",
+    "name_en": "Dusclops",
+    "search_keywords": [
+      "サマヨール",
+      "Dusclops"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 357,
+    "name_ja": "トロピウス",
+    "name_en": "Tropius",
+    "search_keywords": [
+      "トロピウス",
+      "Tropius"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 358,
+    "name_ja": "チリーン",
+    "name_en": "Chimecho",
+    "search_keywords": [
+      "チリーン",
+      "Chimecho"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 359,
+    "name_ja": "アブソル",
+    "name_en": "Absol",
+    "search_keywords": [
+      "アブソル",
+      "Absol"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 360,
+    "name_ja": "ソーナノ",
+    "name_en": "Wynaut",
+    "search_keywords": [
+      "ソーナノ",
+      "Wynaut"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 361,
+    "name_ja": "ユキワラシ",
+    "name_en": "Snorunt",
+    "search_keywords": [
+      "ユキワラシ",
+      "Snorunt"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 362,
+    "name_ja": "オニゴーリ",
+    "name_en": "Glalie",
+    "search_keywords": [
+      "オニゴーリ",
+      "Glalie"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 363,
+    "name_ja": "タマザラシ",
+    "name_en": "Spheal",
+    "search_keywords": [
+      "タマザラシ",
+      "Spheal"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 364,
+    "name_ja": "トドグラー",
+    "name_en": "Sealeo",
+    "search_keywords": [
+      "トドグラー",
+      "Sealeo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 365,
+    "name_ja": "トドゼルガ",
+    "name_en": "Walrein",
+    "search_keywords": [
+      "トドゼルガ",
+      "Walrein"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 366,
+    "name_ja": "パールル",
+    "name_en": "Clamperl",
+    "search_keywords": [
+      "パールル",
+      "Clamperl"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 367,
+    "name_ja": "ハンテール",
+    "name_en": "Huntail",
+    "search_keywords": [
+      "ハンテール",
+      "Huntail"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 368,
+    "name_ja": "サクラビス",
+    "name_en": "Gorebyss",
+    "search_keywords": [
+      "サクラビス",
+      "Gorebyss"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 369,
+    "name_ja": "ジーランス",
+    "name_en": "Relicanth",
+    "search_keywords": [
+      "ジーランス",
+      "Relicanth"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 370,
+    "name_ja": "ラブカス",
+    "name_en": "Luvdisc",
+    "search_keywords": [
+      "ラブカス",
+      "Luvdisc"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 371,
+    "name_ja": "タツベイ",
+    "name_en": "Bagon",
+    "search_keywords": [
+      "タツベイ",
+      "Bagon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 372,
+    "name_ja": "コモルー",
+    "name_en": "Shelgon",
+    "search_keywords": [
+      "コモルー",
+      "Shelgon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 373,
+    "name_ja": "ボーマンダ",
+    "name_en": "Salamence",
+    "search_keywords": [
+      "ボーマンダ",
+      "Salamence"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 374,
+    "name_ja": "ダンバル",
+    "name_en": "Beldum",
+    "search_keywords": [
+      "ダンバル",
+      "Beldum"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 375,
+    "name_ja": "メタング",
+    "name_en": "Metang",
+    "search_keywords": [
+      "メタング",
+      "Metang"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 376,
+    "name_ja": "メタグロス",
+    "name_en": "Metagross",
+    "search_keywords": [
+      "メタグロス",
+      "Metagross"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 377,
+    "name_ja": "レジロック",
+    "name_en": "Regirock",
+    "search_keywords": [
+      "レジロック",
+      "Regirock"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 378,
+    "name_ja": "レジアイス",
+    "name_en": "Regice",
+    "search_keywords": [
+      "レジアイス",
+      "Regice"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 379,
+    "name_ja": "レジスチル",
+    "name_en": "Registeel",
+    "search_keywords": [
+      "レジスチル",
+      "Registeel"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 380,
+    "name_ja": "ラティアス",
+    "name_en": "Latias",
+    "search_keywords": [
+      "ラティアス",
+      "Latias"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 381,
+    "name_ja": "ラティオス",
+    "name_en": "Latios",
+    "search_keywords": [
+      "ラティオス",
+      "Latios"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 382,
+    "name_ja": "カイオーガ",
+    "name_en": "Kyogre",
+    "search_keywords": [
+      "カイオーガ",
+      "Kyogre"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 383,
+    "name_ja": "グラードン",
+    "name_en": "Groudon",
+    "search_keywords": [
+      "グラードン",
+      "Groudon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 384,
+    "name_ja": "レックウザ",
+    "name_en": "Rayquaza",
+    "search_keywords": [
+      "レックウザ",
+      "Rayquaza"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 385,
+    "name_ja": "ジラーチ",
+    "name_en": "Jirachi",
+    "search_keywords": [
+      "ジラーチ",
+      "Jirachi"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 386,
+    "name_ja": "デオキシス",
+    "name_en": "Deoxys",
+    "search_keywords": [
+      "デオキシス",
+      "Deoxys"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 387,
+    "name_ja": "ナエトル",
+    "name_en": "Turtwig",
+    "search_keywords": [
+      "ナエトル",
+      "Turtwig"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 388,
+    "name_ja": "ハヤシガメ",
+    "name_en": "Grotle",
+    "search_keywords": [
+      "ハヤシガメ",
+      "Grotle"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 389,
+    "name_ja": "ドダイトス",
+    "name_en": "Torterra",
+    "search_keywords": [
+      "ドダイトス",
+      "Torterra"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 390,
+    "name_ja": "ヒコザル",
+    "name_en": "Chimchar",
+    "search_keywords": [
+      "ヒコザル",
+      "Chimchar"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 391,
+    "name_ja": "モウカザル",
+    "name_en": "Monferno",
+    "search_keywords": [
+      "モウカザル",
+      "Monferno"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 392,
+    "name_ja": "ゴウカザル",
+    "name_en": "Infernape",
+    "search_keywords": [
+      "ゴウカザル",
+      "Infernape"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 393,
+    "name_ja": "ポッチャマ",
+    "name_en": "Piplup",
+    "search_keywords": [
+      "ポッチャマ",
+      "Piplup"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 394,
+    "name_ja": "ポッタイシ",
+    "name_en": "Prinplup",
+    "search_keywords": [
+      "ポッタイシ",
+      "Prinplup"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 395,
+    "name_ja": "エンペルト",
+    "name_en": "Empoleon",
+    "search_keywords": [
+      "エンペルト",
+      "Empoleon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 396,
+    "name_ja": "ムックル",
+    "name_en": "Starly",
+    "search_keywords": [
+      "ムックル",
+      "Starly"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 397,
+    "name_ja": "ムクバード",
+    "name_en": "Staravia",
+    "search_keywords": [
+      "ムクバード",
+      "Staravia"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 398,
+    "name_ja": "ムクホーク",
+    "name_en": "Staraptor",
+    "search_keywords": [
+      "ムクホーク",
+      "Staraptor"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 399,
+    "name_ja": "ビッパ",
+    "name_en": "Bidoof",
+    "search_keywords": [
+      "ビッパ",
+      "Bidoof"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 400,
+    "name_ja": "ビーダル",
+    "name_en": "Bibarel",
+    "search_keywords": [
+      "ビーダル",
+      "Bibarel"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 401,
+    "name_ja": "コロボーシ",
+    "name_en": "Kricketot",
+    "search_keywords": [
+      "コロボーシ",
+      "Kricketot"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 402,
+    "name_ja": "コロトック",
+    "name_en": "Kricketune",
+    "search_keywords": [
+      "コロトック",
+      "Kricketune"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 403,
+    "name_ja": "コリンク",
+    "name_en": "Shinx",
+    "search_keywords": [
+      "コリンク",
+      "Shinx"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 404,
+    "name_ja": "ルクシオ",
+    "name_en": "Luxio",
+    "search_keywords": [
+      "ルクシオ",
+      "Luxio"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 405,
+    "name_ja": "レントラー",
+    "name_en": "Luxray",
+    "search_keywords": [
+      "レントラー",
+      "Luxray"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 406,
+    "name_ja": "スボミー",
+    "name_en": "Budew",
+    "search_keywords": [
+      "スボミー",
+      "Budew"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 407,
+    "name_ja": "ロズレイド",
+    "name_en": "Roserade",
+    "search_keywords": [
+      "ロズレイド",
+      "Roserade"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 408,
+    "name_ja": "ズガイドス",
+    "name_en": "Cranidos",
+    "search_keywords": [
+      "ズガイドス",
+      "Cranidos"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 409,
+    "name_ja": "ラムパルド",
+    "name_en": "Rampardos",
+    "search_keywords": [
+      "ラムパルド",
+      "Rampardos"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 410,
+    "name_ja": "タテトプス",
+    "name_en": "Shieldon",
+    "search_keywords": [
+      "タテトプス",
+      "Shieldon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 411,
+    "name_ja": "トリデプス",
+    "name_en": "Bastiodon",
+    "search_keywords": [
+      "トリデプス",
+      "Bastiodon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 412,
+    "name_ja": "ミノムッチ",
+    "name_en": "Burmy",
+    "search_keywords": [
+      "ミノムッチ",
+      "Burmy"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 413,
+    "name_ja": "ミノマダム",
+    "name_en": "Wormadam",
+    "search_keywords": [
+      "ミノマダム",
+      "Wormadam"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 414,
+    "name_ja": "ガーメイル",
+    "name_en": "Mothim",
+    "search_keywords": [
+      "ガーメイル",
+      "Mothim"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 415,
+    "name_ja": "ミツハニー",
+    "name_en": "Combee",
+    "search_keywords": [
+      "ミツハニー",
+      "Combee"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 416,
+    "name_ja": "ビークイン",
+    "name_en": "Vespiquen",
+    "search_keywords": [
+      "ビークイン",
+      "Vespiquen"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 417,
+    "name_ja": "パチリス",
+    "name_en": "Pachirisu",
+    "search_keywords": [
+      "パチリス",
+      "Pachirisu"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 418,
+    "name_ja": "ブイゼル",
+    "name_en": "Buizel",
+    "search_keywords": [
+      "ブイゼル",
+      "Buizel"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 419,
+    "name_ja": "フローゼル",
+    "name_en": "Floatzel",
+    "search_keywords": [
+      "フローゼル",
+      "Floatzel"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 420,
+    "name_ja": "チェリンボ",
+    "name_en": "Cherubi",
+    "search_keywords": [
+      "チェリンボ",
+      "Cherubi"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 421,
+    "name_ja": "チェリム",
+    "name_en": "Cherrim",
+    "search_keywords": [
+      "チェリム",
+      "Cherrim"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 422,
+    "name_ja": "カラナクシ",
+    "name_en": "Shellos",
+    "search_keywords": [
+      "カラナクシ",
+      "Shellos"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 423,
+    "name_ja": "トリトドン",
+    "name_en": "Gastrodon",
+    "search_keywords": [
+      "トリトドン",
+      "Gastrodon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 424,
+    "name_ja": "エテボース",
+    "name_en": "Ambipom",
+    "search_keywords": [
+      "エテボース",
+      "Ambipom"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 425,
+    "name_ja": "フワンテ",
+    "name_en": "Drifloon",
+    "search_keywords": [
+      "フワンテ",
+      "Drifloon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 426,
+    "name_ja": "フワライド",
+    "name_en": "Drifblim",
+    "search_keywords": [
+      "フワライド",
+      "Drifblim"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 427,
+    "name_ja": "ミミロル",
+    "name_en": "Buneary",
+    "search_keywords": [
+      "ミミロル",
+      "Buneary"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 428,
+    "name_ja": "ミミロップ",
+    "name_en": "Lopunny",
+    "search_keywords": [
+      "ミミロップ",
+      "Lopunny"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 429,
+    "name_ja": "ムウマージ",
+    "name_en": "Mismagius",
+    "search_keywords": [
+      "ムウマージ",
+      "Mismagius"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 430,
+    "name_ja": "ドンカラス",
+    "name_en": "Honchkrow",
+    "search_keywords": [
+      "ドンカラス",
+      "Honchkrow"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 431,
+    "name_ja": "ニャルマー",
+    "name_en": "Glameow",
+    "search_keywords": [
+      "ニャルマー",
+      "Glameow"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 432,
+    "name_ja": "ブニャット",
+    "name_en": "Purugly",
+    "search_keywords": [
+      "ブニャット",
+      "Purugly"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 433,
+    "name_ja": "リーシャン",
+    "name_en": "Chingling",
+    "search_keywords": [
+      "リーシャン",
+      "Chingling"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 434,
+    "name_ja": "スカンプー",
+    "name_en": "Stunky",
+    "search_keywords": [
+      "スカンプー",
+      "Stunky"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 435,
+    "name_ja": "スカタンク",
+    "name_en": "Skuntank",
+    "search_keywords": [
+      "スカタンク",
+      "Skuntank"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 436,
+    "name_ja": "ドーミラー",
+    "name_en": "Bronzor",
+    "search_keywords": [
+      "ドーミラー",
+      "Bronzor"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 437,
+    "name_ja": "ドータクン",
+    "name_en": "Bronzong",
+    "search_keywords": [
+      "ドータクン",
+      "Bronzong"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 438,
+    "name_ja": "ウソハチ",
+    "name_en": "Bonsly",
+    "search_keywords": [
+      "ウソハチ",
+      "Bonsly"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 439,
+    "name_ja": "マネネ",
+    "name_en": "Mime Jr.",
+    "search_keywords": [
+      "マネネ",
+      "Mime Jr."
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 440,
+    "name_ja": "ピンプク",
+    "name_en": "Happiny",
+    "search_keywords": [
+      "ピンプク",
+      "Happiny"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 441,
+    "name_ja": "ペラップ",
+    "name_en": "Chatot",
+    "search_keywords": [
+      "ペラップ",
+      "Chatot"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 442,
+    "name_ja": "ミカルゲ",
+    "name_en": "Spiritomb",
+    "search_keywords": [
+      "ミカルゲ",
+      "Spiritomb"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 443,
+    "name_ja": "フカマル",
+    "name_en": "Gible",
+    "search_keywords": [
+      "フカマル",
+      "Gible"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 444,
+    "name_ja": "ガバイト",
+    "name_en": "Gabite",
+    "search_keywords": [
+      "ガバイト",
+      "Gabite"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 445,
+    "name_ja": "ガブリアス",
+    "name_en": "Garchomp",
+    "search_keywords": [
+      "ガブリアス",
+      "Garchomp"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 446,
+    "name_ja": "ゴンベ",
+    "name_en": "Munchlax",
+    "search_keywords": [
+      "ゴンベ",
+      "Munchlax"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 447,
+    "name_ja": "リオル",
+    "name_en": "Riolu",
+    "search_keywords": [
+      "リオル",
+      "Riolu"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 448,
+    "name_ja": "ルカリオ",
+    "name_en": "Lucario",
+    "search_keywords": [
+      "ルカリオ",
+      "Lucario"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 449,
+    "name_ja": "ヒポポタス",
+    "name_en": "Hippopotas",
+    "search_keywords": [
+      "ヒポポタス",
+      "Hippopotas"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 450,
+    "name_ja": "カバルドン",
+    "name_en": "Hippowdon",
+    "search_keywords": [
+      "カバルドン",
+      "Hippowdon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 451,
+    "name_ja": "スコルピ",
+    "name_en": "Skorupi",
+    "search_keywords": [
+      "スコルピ",
+      "Skorupi"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 452,
+    "name_ja": "ドラピオン",
+    "name_en": "Drapion",
+    "search_keywords": [
+      "ドラピオン",
+      "Drapion"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 453,
+    "name_ja": "グレッグル",
+    "name_en": "Croagunk",
+    "search_keywords": [
+      "グレッグル",
+      "Croagunk"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 454,
+    "name_ja": "ドクロッグ",
+    "name_en": "Toxicroak",
+    "search_keywords": [
+      "ドクロッグ",
+      "Toxicroak"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 455,
+    "name_ja": "マスキッパ",
+    "name_en": "Carnivine",
+    "search_keywords": [
+      "マスキッパ",
+      "Carnivine"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 456,
+    "name_ja": "ケイコウオ",
+    "name_en": "Finneon",
+    "search_keywords": [
+      "ケイコウオ",
+      "Finneon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 457,
+    "name_ja": "ネオラント",
+    "name_en": "Lumineon",
+    "search_keywords": [
+      "ネオラント",
+      "Lumineon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 458,
+    "name_ja": "タマンタ",
+    "name_en": "Mantyke",
+    "search_keywords": [
+      "タマンタ",
+      "Mantyke"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 459,
+    "name_ja": "ユキカブリ",
+    "name_en": "Snover",
+    "search_keywords": [
+      "ユキカブリ",
+      "Snover"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 460,
+    "name_ja": "ユキノオー",
+    "name_en": "Abomasnow",
+    "search_keywords": [
+      "ユキノオー",
+      "Abomasnow"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 461,
+    "name_ja": "マニューラ",
+    "name_en": "Weavile",
+    "search_keywords": [
+      "マニューラ",
+      "Weavile"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 462,
+    "name_ja": "ジバコイル",
+    "name_en": "Magnezone",
+    "search_keywords": [
+      "ジバコイル",
+      "Magnezone"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 463,
+    "name_ja": "ベロベルト",
+    "name_en": "Lickilicky",
+    "search_keywords": [
+      "ベロベルト",
+      "Lickilicky"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 464,
+    "name_ja": "ドサイドン",
+    "name_en": "Rhyperior",
+    "search_keywords": [
+      "ドサイドン",
+      "Rhyperior"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 465,
+    "name_ja": "モジャンボ",
+    "name_en": "Tangrowth",
+    "search_keywords": [
+      "モジャンボ",
+      "Tangrowth"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 466,
+    "name_ja": "エレキブル",
+    "name_en": "Electivire",
+    "search_keywords": [
+      "エレキブル",
+      "Electivire"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 467,
+    "name_ja": "ブーバーン",
+    "name_en": "Magmortar",
+    "search_keywords": [
+      "ブーバーン",
+      "Magmortar"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 468,
+    "name_ja": "トゲキッス",
+    "name_en": "Togekiss",
+    "search_keywords": [
+      "トゲキッス",
+      "Togekiss"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 469,
+    "name_ja": "メガヤンマ",
+    "name_en": "Yanmega",
+    "search_keywords": [
+      "メガヤンマ",
+      "Yanmega"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 470,
+    "name_ja": "リーフィア",
+    "name_en": "Leafeon",
+    "search_keywords": [
+      "リーフィア",
+      "Leafeon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 471,
+    "name_ja": "グレイシア",
+    "name_en": "Glaceon",
+    "search_keywords": [
+      "グレイシア",
+      "Glaceon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 472,
+    "name_ja": "グライオン",
+    "name_en": "Gliscor",
+    "search_keywords": [
+      "グライオン",
+      "Gliscor"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 473,
+    "name_ja": "マンムー",
+    "name_en": "Mamoswine",
+    "search_keywords": [
+      "マンムー",
+      "Mamoswine"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 474,
+    "name_ja": "ポリゴンＺ",
+    "name_en": "Porygon-Z",
+    "search_keywords": [
+      "ポリゴンＺ",
+      "Porygon-Z"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 475,
+    "name_ja": "エルレイド",
+    "name_en": "Gallade",
+    "search_keywords": [
+      "エルレイド",
+      "Gallade"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 476,
+    "name_ja": "ダイノーズ",
+    "name_en": "Probopass",
+    "search_keywords": [
+      "ダイノーズ",
+      "Probopass"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 477,
+    "name_ja": "ヨノワール",
+    "name_en": "Dusknoir",
+    "search_keywords": [
+      "ヨノワール",
+      "Dusknoir"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 478,
+    "name_ja": "ユキメノコ",
+    "name_en": "Froslass",
+    "search_keywords": [
+      "ユキメノコ",
+      "Froslass"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 479,
+    "name_ja": "ロトム",
+    "name_en": "Rotom",
+    "search_keywords": [
+      "ロトム",
+      "Rotom"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 480,
+    "name_ja": "ユクシー",
+    "name_en": "Uxie",
+    "search_keywords": [
+      "ユクシー",
+      "Uxie"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 481,
+    "name_ja": "エムリット",
+    "name_en": "Mesprit",
+    "search_keywords": [
+      "エムリット",
+      "Mesprit"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 482,
+    "name_ja": "アグノム",
+    "name_en": "Azelf",
+    "search_keywords": [
+      "アグノム",
+      "Azelf"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 483,
+    "name_ja": "ディアルガ",
+    "name_en": "Dialga",
+    "search_keywords": [
+      "ディアルガ",
+      "Dialga"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 484,
+    "name_ja": "パルキア",
+    "name_en": "Palkia",
+    "search_keywords": [
+      "パルキア",
+      "Palkia"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 485,
+    "name_ja": "ヒードラン",
+    "name_en": "Heatran",
+    "search_keywords": [
+      "ヒードラン",
+      "Heatran"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 486,
+    "name_ja": "レジギガス",
+    "name_en": "Regigigas",
+    "search_keywords": [
+      "レジギガス",
+      "Regigigas"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 487,
+    "name_ja": "ギラティナ",
+    "name_en": "Giratina",
+    "search_keywords": [
+      "ギラティナ",
+      "Giratina"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 488,
+    "name_ja": "クレセリア",
+    "name_en": "Cresselia",
+    "search_keywords": [
+      "クレセリア",
+      "Cresselia"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 489,
+    "name_ja": "フィオネ",
+    "name_en": "Phione",
+    "search_keywords": [
+      "フィオネ",
+      "Phione"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 490,
+    "name_ja": "マナフィ",
+    "name_en": "Manaphy",
+    "search_keywords": [
+      "マナフィ",
+      "Manaphy"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 491,
+    "name_ja": "ダークライ",
+    "name_en": "Darkrai",
+    "search_keywords": [
+      "ダークライ",
+      "Darkrai"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 492,
+    "name_ja": "シェイミ",
+    "name_en": "Shaymin",
+    "search_keywords": [
+      "シェイミ",
+      "Shaymin"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 493,
+    "name_ja": "アルセウス",
+    "name_en": "Arceus",
+    "search_keywords": [
+      "アルセウス",
+      "Arceus"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 494,
+    "name_ja": "ビクティニ",
+    "name_en": "Victini",
+    "search_keywords": [
+      "ビクティニ",
+      "Victini"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 495,
+    "name_ja": "ツタージャ",
+    "name_en": "Snivy",
+    "search_keywords": [
+      "ツタージャ",
+      "Snivy"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 496,
+    "name_ja": "ジャノビー",
+    "name_en": "Servine",
+    "search_keywords": [
+      "ジャノビー",
+      "Servine"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 497,
+    "name_ja": "ジャローダ",
+    "name_en": "Serperior",
+    "search_keywords": [
+      "ジャローダ",
+      "Serperior"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 498,
+    "name_ja": "ポカブ",
+    "name_en": "Tepig",
+    "search_keywords": [
+      "ポカブ",
+      "Tepig"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 499,
+    "name_ja": "チャオブー",
+    "name_en": "Pignite",
+    "search_keywords": [
+      "チャオブー",
+      "Pignite"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 500,
+    "name_ja": "エンブオー",
+    "name_en": "Emboar",
+    "search_keywords": [
+      "エンブオー",
+      "Emboar"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 501,
+    "name_ja": "ミジュマル",
+    "name_en": "Oshawott",
+    "search_keywords": [
+      "ミジュマル",
+      "Oshawott"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 502,
+    "name_ja": "フタチマル",
+    "name_en": "Dewott",
+    "search_keywords": [
+      "フタチマル",
+      "Dewott"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 503,
+    "name_ja": "ダイケンキ",
+    "name_en": "Samurott",
+    "search_keywords": [
+      "ダイケンキ",
+      "Samurott"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 504,
+    "name_ja": "ミネズミ",
+    "name_en": "Patrat",
+    "search_keywords": [
+      "ミネズミ",
+      "Patrat"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 505,
+    "name_ja": "ミルホッグ",
+    "name_en": "Watchog",
+    "search_keywords": [
+      "ミルホッグ",
+      "Watchog"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 506,
+    "name_ja": "ヨーテリー",
+    "name_en": "Lillipup",
+    "search_keywords": [
+      "ヨーテリー",
+      "Lillipup"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 507,
+    "name_ja": "ハーデリア",
+    "name_en": "Herdier",
+    "search_keywords": [
+      "ハーデリア",
+      "Herdier"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 508,
+    "name_ja": "ムーランド",
+    "name_en": "Stoutland",
+    "search_keywords": [
+      "ムーランド",
+      "Stoutland"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 509,
+    "name_ja": "チョロネコ",
+    "name_en": "Purrloin",
+    "search_keywords": [
+      "チョロネコ",
+      "Purrloin"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 510,
+    "name_ja": "レパルダス",
+    "name_en": "Liepard",
+    "search_keywords": [
+      "レパルダス",
+      "Liepard"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 511,
+    "name_ja": "ヤナップ",
+    "name_en": "Pansage",
+    "search_keywords": [
+      "ヤナップ",
+      "Pansage"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 512,
+    "name_ja": "ヤナッキー",
+    "name_en": "Simisage",
+    "search_keywords": [
+      "ヤナッキー",
+      "Simisage"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 513,
+    "name_ja": "バオップ",
+    "name_en": "Pansear",
+    "search_keywords": [
+      "バオップ",
+      "Pansear"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 514,
+    "name_ja": "バオッキー",
+    "name_en": "Simisear",
+    "search_keywords": [
+      "バオッキー",
+      "Simisear"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 515,
+    "name_ja": "ヒヤップ",
+    "name_en": "Panpour",
+    "search_keywords": [
+      "ヒヤップ",
+      "Panpour"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 516,
+    "name_ja": "ヒヤッキー",
+    "name_en": "Simipour",
+    "search_keywords": [
+      "ヒヤッキー",
+      "Simipour"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 517,
+    "name_ja": "ムンナ",
+    "name_en": "Munna",
+    "search_keywords": [
+      "ムンナ",
+      "Munna"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 518,
+    "name_ja": "ムシャーナ",
+    "name_en": "Musharna",
+    "search_keywords": [
+      "ムシャーナ",
+      "Musharna"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 519,
+    "name_ja": "マメパト",
+    "name_en": "Pidove",
+    "search_keywords": [
+      "マメパト",
+      "Pidove"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 520,
+    "name_ja": "ハトーボー",
+    "name_en": "Tranquill",
+    "search_keywords": [
+      "ハトーボー",
+      "Tranquill"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 521,
+    "name_ja": "ケンホロウ",
+    "name_en": "Unfezant",
+    "search_keywords": [
+      "ケンホロウ",
+      "Unfezant"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 522,
+    "name_ja": "シママ",
+    "name_en": "Blitzle",
+    "search_keywords": [
+      "シママ",
+      "Blitzle"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 523,
+    "name_ja": "ゼブライカ",
+    "name_en": "Zebstrika",
+    "search_keywords": [
+      "ゼブライカ",
+      "Zebstrika"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 524,
+    "name_ja": "ダンゴロ",
+    "name_en": "Roggenrola",
+    "search_keywords": [
+      "ダンゴロ",
+      "Roggenrola"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 525,
+    "name_ja": "ガントル",
+    "name_en": "Boldore",
+    "search_keywords": [
+      "ガントル",
+      "Boldore"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 526,
+    "name_ja": "ギガイアス",
+    "name_en": "Gigalith",
+    "search_keywords": [
+      "ギガイアス",
+      "Gigalith"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 527,
+    "name_ja": "コロモリ",
+    "name_en": "Woobat",
+    "search_keywords": [
+      "コロモリ",
+      "Woobat"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 528,
+    "name_ja": "ココロモリ",
+    "name_en": "Swoobat",
+    "search_keywords": [
+      "ココロモリ",
+      "Swoobat"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 529,
+    "name_ja": "モグリュー",
+    "name_en": "Drilbur",
+    "search_keywords": [
+      "モグリュー",
+      "Drilbur"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 530,
+    "name_ja": "ドリュウズ",
+    "name_en": "Excadrill",
+    "search_keywords": [
+      "ドリュウズ",
+      "Excadrill"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 531,
+    "name_ja": "タブンネ",
+    "name_en": "Audino",
+    "search_keywords": [
+      "タブンネ",
+      "Audino"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 532,
+    "name_ja": "ドッコラー",
+    "name_en": "Timburr",
+    "search_keywords": [
+      "ドッコラー",
+      "Timburr"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 533,
+    "name_ja": "ドテッコツ",
+    "name_en": "Gurdurr",
+    "search_keywords": [
+      "ドテッコツ",
+      "Gurdurr"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 534,
+    "name_ja": "ローブシン",
+    "name_en": "Conkeldurr",
+    "search_keywords": [
+      "ローブシン",
+      "Conkeldurr"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 535,
+    "name_ja": "オタマロ",
+    "name_en": "Tympole",
+    "search_keywords": [
+      "オタマロ",
+      "Tympole"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 536,
+    "name_ja": "ガマガル",
+    "name_en": "Palpitoad",
+    "search_keywords": [
+      "ガマガル",
+      "Palpitoad"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 537,
+    "name_ja": "ガマゲロゲ",
+    "name_en": "Seismitoad",
+    "search_keywords": [
+      "ガマゲロゲ",
+      "Seismitoad"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 538,
+    "name_ja": "ナゲキ",
+    "name_en": "Throh",
+    "search_keywords": [
+      "ナゲキ",
+      "Throh"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 539,
+    "name_ja": "ダゲキ",
+    "name_en": "Sawk",
+    "search_keywords": [
+      "ダゲキ",
+      "Sawk"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 540,
+    "name_ja": "クルミル",
+    "name_en": "Sewaddle",
+    "search_keywords": [
+      "クルミル",
+      "Sewaddle"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 541,
+    "name_ja": "クルマユ",
+    "name_en": "Swadloon",
+    "search_keywords": [
+      "クルマユ",
+      "Swadloon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 542,
+    "name_ja": "ハハコモリ",
+    "name_en": "Leavanny",
+    "search_keywords": [
+      "ハハコモリ",
+      "Leavanny"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 543,
+    "name_ja": "フシデ",
+    "name_en": "Venipede",
+    "search_keywords": [
+      "フシデ",
+      "Venipede"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 544,
+    "name_ja": "ホイーガ",
+    "name_en": "Whirlipede",
+    "search_keywords": [
+      "ホイーガ",
+      "Whirlipede"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 545,
+    "name_ja": "ペンドラー",
+    "name_en": "Scolipede",
+    "search_keywords": [
+      "ペンドラー",
+      "Scolipede"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 546,
+    "name_ja": "モンメン",
+    "name_en": "Cottonee",
+    "search_keywords": [
+      "モンメン",
+      "Cottonee"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 547,
+    "name_ja": "エルフーン",
+    "name_en": "Whimsicott",
+    "search_keywords": [
+      "エルフーン",
+      "Whimsicott"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 548,
+    "name_ja": "チュリネ",
+    "name_en": "Petilil",
+    "search_keywords": [
+      "チュリネ",
+      "Petilil"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 549,
+    "name_ja": "ドレディア",
+    "name_en": "Lilligant",
+    "search_keywords": [
+      "ドレディア",
+      "Lilligant"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 550,
+    "name_ja": "バスラオ",
+    "name_en": "Basculin",
+    "search_keywords": [
+      "バスラオ",
+      "Basculin"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 551,
+    "name_ja": "メグロコ",
+    "name_en": "Sandile",
+    "search_keywords": [
+      "メグロコ",
+      "Sandile"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 552,
+    "name_ja": "ワルビル",
+    "name_en": "Krokorok",
+    "search_keywords": [
+      "ワルビル",
+      "Krokorok"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 553,
+    "name_ja": "ワルビアル",
+    "name_en": "Krookodile",
+    "search_keywords": [
+      "ワルビアル",
+      "Krookodile"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 554,
+    "name_ja": "ダルマッカ",
+    "name_en": "Darumaka",
+    "search_keywords": [
+      "ダルマッカ",
+      "Darumaka"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 555,
+    "name_ja": "ヒヒダルマ",
+    "name_en": "Darmanitan",
+    "search_keywords": [
+      "ヒヒダルマ",
+      "Darmanitan"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 556,
+    "name_ja": "マラカッチ",
+    "name_en": "Maractus",
+    "search_keywords": [
+      "マラカッチ",
+      "Maractus"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 557,
+    "name_ja": "イシズマイ",
+    "name_en": "Dwebble",
+    "search_keywords": [
+      "イシズマイ",
+      "Dwebble"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 558,
+    "name_ja": "イワパレス",
+    "name_en": "Crustle",
+    "search_keywords": [
+      "イワパレス",
+      "Crustle"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 559,
+    "name_ja": "ズルッグ",
+    "name_en": "Scraggy",
+    "search_keywords": [
+      "ズルッグ",
+      "Scraggy"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 560,
+    "name_ja": "ズルズキン",
+    "name_en": "Scrafty",
+    "search_keywords": [
+      "ズルズキン",
+      "Scrafty"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 561,
+    "name_ja": "シンボラー",
+    "name_en": "Sigilyph",
+    "search_keywords": [
+      "シンボラー",
+      "Sigilyph"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 562,
+    "name_ja": "デスマス",
+    "name_en": "Yamask",
+    "search_keywords": [
+      "デスマス",
+      "Yamask"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 563,
+    "name_ja": "デスカーン",
+    "name_en": "Cofagrigus",
+    "search_keywords": [
+      "デスカーン",
+      "Cofagrigus"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 564,
+    "name_ja": "プロトーガ",
+    "name_en": "Tirtouga",
+    "search_keywords": [
+      "プロトーガ",
+      "Tirtouga"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 565,
+    "name_ja": "アバゴーラ",
+    "name_en": "Carracosta",
+    "search_keywords": [
+      "アバゴーラ",
+      "Carracosta"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 566,
+    "name_ja": "アーケン",
+    "name_en": "Archen",
+    "search_keywords": [
+      "アーケン",
+      "Archen"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 567,
+    "name_ja": "アーケオス",
+    "name_en": "Archeops",
+    "search_keywords": [
+      "アーケオス",
+      "Archeops"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 568,
+    "name_ja": "ヤブクロン",
+    "name_en": "Trubbish",
+    "search_keywords": [
+      "ヤブクロン",
+      "Trubbish"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 569,
+    "name_ja": "ダストダス",
+    "name_en": "Garbodor",
+    "search_keywords": [
+      "ダストダス",
+      "Garbodor"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 570,
+    "name_ja": "ゾロア",
+    "name_en": "Zorua",
+    "search_keywords": [
+      "ゾロア",
+      "Zorua"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 571,
+    "name_ja": "ゾロアーク",
+    "name_en": "Zoroark",
+    "search_keywords": [
+      "ゾロアーク",
+      "Zoroark"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 572,
+    "name_ja": "チラーミィ",
+    "name_en": "Minccino",
+    "search_keywords": [
+      "チラーミィ",
+      "Minccino"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 573,
+    "name_ja": "チラチーノ",
+    "name_en": "Cinccino",
+    "search_keywords": [
+      "チラチーノ",
+      "Cinccino"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 574,
+    "name_ja": "ゴチム",
+    "name_en": "Gothita",
+    "search_keywords": [
+      "ゴチム",
+      "Gothita"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 575,
+    "name_ja": "ゴチミル",
+    "name_en": "Gothorita",
+    "search_keywords": [
+      "ゴチミル",
+      "Gothorita"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 576,
+    "name_ja": "ゴチルゼル",
+    "name_en": "Gothitelle",
+    "search_keywords": [
+      "ゴチルゼル",
+      "Gothitelle"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 577,
+    "name_ja": "ユニラン",
+    "name_en": "Solosis",
+    "search_keywords": [
+      "ユニラン",
+      "Solosis"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 578,
+    "name_ja": "ダブラン",
+    "name_en": "Duosion",
+    "search_keywords": [
+      "ダブラン",
+      "Duosion"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 579,
+    "name_ja": "ランクルス",
+    "name_en": "Reuniclus",
+    "search_keywords": [
+      "ランクルス",
+      "Reuniclus"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 580,
+    "name_ja": "コアルヒー",
+    "name_en": "Ducklett",
+    "search_keywords": [
+      "コアルヒー",
+      "Ducklett"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 581,
+    "name_ja": "スワンナ",
+    "name_en": "Swanna",
+    "search_keywords": [
+      "スワンナ",
+      "Swanna"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 582,
+    "name_ja": "バニプッチ",
+    "name_en": "Vanillite",
+    "search_keywords": [
+      "バニプッチ",
+      "Vanillite"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 583,
+    "name_ja": "バニリッチ",
+    "name_en": "Vanillish",
+    "search_keywords": [
+      "バニリッチ",
+      "Vanillish"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 584,
+    "name_ja": "バイバニラ",
+    "name_en": "Vanilluxe",
+    "search_keywords": [
+      "バイバニラ",
+      "Vanilluxe"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 585,
+    "name_ja": "シキジカ",
+    "name_en": "Deerling",
+    "search_keywords": [
+      "シキジカ",
+      "Deerling"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 586,
+    "name_ja": "メブキジカ",
+    "name_en": "Sawsbuck",
+    "search_keywords": [
+      "メブキジカ",
+      "Sawsbuck"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 587,
+    "name_ja": "エモンガ",
+    "name_en": "Emolga",
+    "search_keywords": [
+      "エモンガ",
+      "Emolga"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 588,
+    "name_ja": "カブルモ",
+    "name_en": "Karrablast",
+    "search_keywords": [
+      "カブルモ",
+      "Karrablast"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 589,
+    "name_ja": "シュバルゴ",
+    "name_en": "Escavalier",
+    "search_keywords": [
+      "シュバルゴ",
+      "Escavalier"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 590,
+    "name_ja": "タマゲタケ",
+    "name_en": "Foongus",
+    "search_keywords": [
+      "タマゲタケ",
+      "Foongus"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 591,
+    "name_ja": "モロバレル",
+    "name_en": "Amoonguss",
+    "search_keywords": [
+      "モロバレル",
+      "Amoonguss"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 592,
+    "name_ja": "プルリル",
+    "name_en": "Frillish",
+    "search_keywords": [
+      "プルリル",
+      "Frillish"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 593,
+    "name_ja": "ブルンゲル",
+    "name_en": "Jellicent",
+    "search_keywords": [
+      "ブルンゲル",
+      "Jellicent"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 594,
+    "name_ja": "ママンボウ",
+    "name_en": "Alomomola",
+    "search_keywords": [
+      "ママンボウ",
+      "Alomomola"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 595,
+    "name_ja": "バチュル",
+    "name_en": "Joltik",
+    "search_keywords": [
+      "バチュル",
+      "Joltik"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 596,
+    "name_ja": "デンチュラ",
+    "name_en": "Galvantula",
+    "search_keywords": [
+      "デンチュラ",
+      "Galvantula"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 597,
+    "name_ja": "テッシード",
+    "name_en": "Ferroseed",
+    "search_keywords": [
+      "テッシード",
+      "Ferroseed"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 598,
+    "name_ja": "ナットレイ",
+    "name_en": "Ferrothorn",
+    "search_keywords": [
+      "ナットレイ",
+      "Ferrothorn"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 599,
+    "name_ja": "ギアル",
+    "name_en": "Klink",
+    "search_keywords": [
+      "ギアル",
+      "Klink"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 600,
+    "name_ja": "ギギアル",
+    "name_en": "Klang",
+    "search_keywords": [
+      "ギギアル",
+      "Klang"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 601,
+    "name_ja": "ギギギアル",
+    "name_en": "Klinklang",
+    "search_keywords": [
+      "ギギギアル",
+      "Klinklang"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 602,
+    "name_ja": "シビシラス",
+    "name_en": "Tynamo",
+    "search_keywords": [
+      "シビシラス",
+      "Tynamo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 603,
+    "name_ja": "シビビール",
+    "name_en": "Eelektrik",
+    "search_keywords": [
+      "シビビール",
+      "Eelektrik"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 604,
+    "name_ja": "シビルドン",
+    "name_en": "Eelektross",
+    "search_keywords": [
+      "シビルドン",
+      "Eelektross"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 605,
+    "name_ja": "リグレー",
+    "name_en": "Elgyem",
+    "search_keywords": [
+      "リグレー",
+      "Elgyem"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 606,
+    "name_ja": "オーベム",
+    "name_en": "Beheeyem",
+    "search_keywords": [
+      "オーベム",
+      "Beheeyem"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 607,
+    "name_ja": "ヒトモシ",
+    "name_en": "Litwick",
+    "search_keywords": [
+      "ヒトモシ",
+      "Litwick"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 608,
+    "name_ja": "ランプラー",
+    "name_en": "Lampent",
+    "search_keywords": [
+      "ランプラー",
+      "Lampent"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 609,
+    "name_ja": "シャンデラ",
+    "name_en": "Chandelure",
+    "search_keywords": [
+      "シャンデラ",
+      "Chandelure"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 610,
+    "name_ja": "キバゴ",
+    "name_en": "Axew",
+    "search_keywords": [
+      "キバゴ",
+      "Axew"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 611,
+    "name_ja": "オノンド",
+    "name_en": "Fraxure",
+    "search_keywords": [
+      "オノンド",
+      "Fraxure"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 612,
+    "name_ja": "オノノクス",
+    "name_en": "Haxorus",
+    "search_keywords": [
+      "オノノクス",
+      "Haxorus"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 613,
+    "name_ja": "クマシュン",
+    "name_en": "Cubchoo",
+    "search_keywords": [
+      "クマシュン",
+      "Cubchoo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 614,
+    "name_ja": "ツンベアー",
+    "name_en": "Beartic",
+    "search_keywords": [
+      "ツンベアー",
+      "Beartic"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 615,
+    "name_ja": "フリージオ",
+    "name_en": "Cryogonal",
+    "search_keywords": [
+      "フリージオ",
+      "Cryogonal"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 616,
+    "name_ja": "チョボマキ",
+    "name_en": "Shelmet",
+    "search_keywords": [
+      "チョボマキ",
+      "Shelmet"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 617,
+    "name_ja": "アギルダー",
+    "name_en": "Accelgor",
+    "search_keywords": [
+      "アギルダー",
+      "Accelgor"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 618,
+    "name_ja": "マッギョ",
+    "name_en": "Stunfisk",
+    "search_keywords": [
+      "マッギョ",
+      "Stunfisk"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 619,
+    "name_ja": "コジョフー",
+    "name_en": "Mienfoo",
+    "search_keywords": [
+      "コジョフー",
+      "Mienfoo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 620,
+    "name_ja": "コジョンド",
+    "name_en": "Mienshao",
+    "search_keywords": [
+      "コジョンド",
+      "Mienshao"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 621,
+    "name_ja": "クリムガン",
+    "name_en": "Druddigon",
+    "search_keywords": [
+      "クリムガン",
+      "Druddigon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 622,
+    "name_ja": "ゴビット",
+    "name_en": "Golett",
+    "search_keywords": [
+      "ゴビット",
+      "Golett"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 623,
+    "name_ja": "ゴルーグ",
+    "name_en": "Golurk",
+    "search_keywords": [
+      "ゴルーグ",
+      "Golurk"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 624,
+    "name_ja": "コマタナ",
+    "name_en": "Pawniard",
+    "search_keywords": [
+      "コマタナ",
+      "Pawniard"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 625,
+    "name_ja": "キリキザン",
+    "name_en": "Bisharp",
+    "search_keywords": [
+      "キリキザン",
+      "Bisharp"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 626,
+    "name_ja": "バッフロン",
+    "name_en": "Bouffalant",
+    "search_keywords": [
+      "バッフロン",
+      "Bouffalant"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 627,
+    "name_ja": "ワシボン",
+    "name_en": "Rufflet",
+    "search_keywords": [
+      "ワシボン",
+      "Rufflet"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 628,
+    "name_ja": "ウォーグル",
+    "name_en": "Braviary",
+    "search_keywords": [
+      "ウォーグル",
+      "Braviary"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 629,
+    "name_ja": "バルチャイ",
+    "name_en": "Vullaby",
+    "search_keywords": [
+      "バルチャイ",
+      "Vullaby"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 630,
+    "name_ja": "バルジーナ",
+    "name_en": "Mandibuzz",
+    "search_keywords": [
+      "バルジーナ",
+      "Mandibuzz"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 631,
+    "name_ja": "クイタラン",
+    "name_en": "Heatmor",
+    "search_keywords": [
+      "クイタラン",
+      "Heatmor"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 632,
+    "name_ja": "アイアント",
+    "name_en": "Durant",
+    "search_keywords": [
+      "アイアント",
+      "Durant"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 633,
+    "name_ja": "モノズ",
+    "name_en": "Deino",
+    "search_keywords": [
+      "モノズ",
+      "Deino"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 634,
+    "name_ja": "ジヘッド",
+    "name_en": "Zweilous",
+    "search_keywords": [
+      "ジヘッド",
+      "Zweilous"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 635,
+    "name_ja": "サザンドラ",
+    "name_en": "Hydreigon",
+    "search_keywords": [
+      "サザンドラ",
+      "Hydreigon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 636,
+    "name_ja": "メラルバ",
+    "name_en": "Larvesta",
+    "search_keywords": [
+      "メラルバ",
+      "Larvesta"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 637,
+    "name_ja": "ウルガモス",
+    "name_en": "Volcarona",
+    "search_keywords": [
+      "ウルガモス",
+      "Volcarona"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 638,
+    "name_ja": "コバルオン",
+    "name_en": "Cobalion",
+    "search_keywords": [
+      "コバルオン",
+      "Cobalion"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 639,
+    "name_ja": "テラキオン",
+    "name_en": "Terrakion",
+    "search_keywords": [
+      "テラキオン",
+      "Terrakion"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 640,
+    "name_ja": "ビリジオン",
+    "name_en": "Virizion",
+    "search_keywords": [
+      "ビリジオン",
+      "Virizion"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 641,
+    "name_ja": "トルネロス",
+    "name_en": "Tornadus",
+    "search_keywords": [
+      "トルネロス",
+      "Tornadus"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 642,
+    "name_ja": "ボルトロス",
+    "name_en": "Thundurus",
+    "search_keywords": [
+      "ボルトロス",
+      "Thundurus"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 643,
+    "name_ja": "レシラム",
+    "name_en": "Reshiram",
+    "search_keywords": [
+      "レシラム",
+      "Reshiram"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 644,
+    "name_ja": "ゼクロム",
+    "name_en": "Zekrom",
+    "search_keywords": [
+      "ゼクロム",
+      "Zekrom"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 645,
+    "name_ja": "ランドロス",
+    "name_en": "Landorus",
+    "search_keywords": [
+      "ランドロス",
+      "Landorus"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 646,
+    "name_ja": "キュレム",
+    "name_en": "Kyurem",
+    "search_keywords": [
+      "キュレム",
+      "Kyurem"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 647,
+    "name_ja": "ケルディオ",
+    "name_en": "Keldeo",
+    "search_keywords": [
+      "ケルディオ",
+      "Keldeo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 648,
+    "name_ja": "メロエッタ",
+    "name_en": "Meloetta",
+    "search_keywords": [
+      "メロエッタ",
+      "Meloetta"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 649,
+    "name_ja": "ゲノセクト",
+    "name_en": "Genesect",
+    "search_keywords": [
+      "ゲノセクト",
+      "Genesect"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 650,
+    "name_ja": "ハリマロン",
+    "name_en": "Chespin",
+    "search_keywords": [
+      "ハリマロン",
+      "Chespin"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 651,
+    "name_ja": "ハリボーグ",
+    "name_en": "Quilladin",
+    "search_keywords": [
+      "ハリボーグ",
+      "Quilladin"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 652,
+    "name_ja": "ブリガロン",
+    "name_en": "Chesnaught",
+    "search_keywords": [
+      "ブリガロン",
+      "Chesnaught"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 653,
+    "name_ja": "フォッコ",
+    "name_en": "Fennekin",
+    "search_keywords": [
+      "フォッコ",
+      "Fennekin"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 654,
+    "name_ja": "テールナー",
+    "name_en": "Braixen",
+    "search_keywords": [
+      "テールナー",
+      "Braixen"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 655,
+    "name_ja": "マフォクシー",
+    "name_en": "Delphox",
+    "search_keywords": [
+      "マフォクシー",
+      "Delphox"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 656,
+    "name_ja": "ケロマツ",
+    "name_en": "Froakie",
+    "search_keywords": [
+      "ケロマツ",
+      "Froakie"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 657,
+    "name_ja": "ゲコガシラ",
+    "name_en": "Frogadier",
+    "search_keywords": [
+      "ゲコガシラ",
+      "Frogadier"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 658,
+    "name_ja": "ゲッコウガ",
+    "name_en": "Greninja",
+    "search_keywords": [
+      "ゲッコウガ",
+      "Greninja"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 659,
+    "name_ja": "ホルビー",
+    "name_en": "Bunnelby",
+    "search_keywords": [
+      "ホルビー",
+      "Bunnelby"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 660,
+    "name_ja": "ホルード",
+    "name_en": "Diggersby",
+    "search_keywords": [
+      "ホルード",
+      "Diggersby"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 661,
+    "name_ja": "ヤヤコマ",
+    "name_en": "Fletchling",
+    "search_keywords": [
+      "ヤヤコマ",
+      "Fletchling"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 662,
+    "name_ja": "ヒノヤコマ",
+    "name_en": "Fletchinder",
+    "search_keywords": [
+      "ヒノヤコマ",
+      "Fletchinder"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 663,
+    "name_ja": "ファイアロー",
+    "name_en": "Talonflame",
+    "search_keywords": [
+      "ファイアロー",
+      "Talonflame"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 664,
+    "name_ja": "コフキムシ",
+    "name_en": "Scatterbug",
+    "search_keywords": [
+      "コフキムシ",
+      "Scatterbug"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 665,
+    "name_ja": "コフーライ",
+    "name_en": "Spewpa",
+    "search_keywords": [
+      "コフーライ",
+      "Spewpa"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 666,
+    "name_ja": "ビビヨン",
+    "name_en": "Vivillon",
+    "search_keywords": [
+      "ビビヨン",
+      "Vivillon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 667,
+    "name_ja": "シシコ",
+    "name_en": "Litleo",
+    "search_keywords": [
+      "シシコ",
+      "Litleo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 668,
+    "name_ja": "カエンジシ",
+    "name_en": "Pyroar",
+    "search_keywords": [
+      "カエンジシ",
+      "Pyroar"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 669,
+    "name_ja": "フラベベ",
+    "name_en": "Flabébé",
+    "search_keywords": [
+      "フラベベ",
+      "Flabébé"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 670,
+    "name_ja": "フラエッテ",
+    "name_en": "Floette",
+    "search_keywords": [
+      "フラエッテ",
+      "Floette"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 671,
+    "name_ja": "フラージェス",
+    "name_en": "Florges",
+    "search_keywords": [
+      "フラージェス",
+      "Florges"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 672,
+    "name_ja": "メェークル",
+    "name_en": "Skiddo",
+    "search_keywords": [
+      "メェークル",
+      "Skiddo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 673,
+    "name_ja": "ゴーゴート",
+    "name_en": "Gogoat",
+    "search_keywords": [
+      "ゴーゴート",
+      "Gogoat"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 674,
+    "name_ja": "ヤンチャム",
+    "name_en": "Pancham",
+    "search_keywords": [
+      "ヤンチャム",
+      "Pancham"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 675,
+    "name_ja": "ゴロンダ",
+    "name_en": "Pangoro",
+    "search_keywords": [
+      "ゴロンダ",
+      "Pangoro"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 676,
+    "name_ja": "トリミアン",
+    "name_en": "Furfrou",
+    "search_keywords": [
+      "トリミアン",
+      "Furfrou"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 677,
+    "name_ja": "ニャスパー",
+    "name_en": "Espurr",
+    "search_keywords": [
+      "ニャスパー",
+      "Espurr"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 678,
+    "name_ja": "ニャオニクス",
+    "name_en": "Meowstic",
+    "search_keywords": [
+      "ニャオニクス",
+      "Meowstic"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 679,
+    "name_ja": "ヒトツキ",
+    "name_en": "Honedge",
+    "search_keywords": [
+      "ヒトツキ",
+      "Honedge"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 680,
+    "name_ja": "ニダンギル",
+    "name_en": "Doublade",
+    "search_keywords": [
+      "ニダンギル",
+      "Doublade"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 681,
+    "name_ja": "ギルガルド",
+    "name_en": "Aegislash",
+    "search_keywords": [
+      "ギルガルド",
+      "Aegislash"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 682,
+    "name_ja": "シュシュプ",
+    "name_en": "Spritzee",
+    "search_keywords": [
+      "シュシュプ",
+      "Spritzee"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 683,
+    "name_ja": "フレフワン",
+    "name_en": "Aromatisse",
+    "search_keywords": [
+      "フレフワン",
+      "Aromatisse"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 684,
+    "name_ja": "ペロッパフ",
+    "name_en": "Swirlix",
+    "search_keywords": [
+      "ペロッパフ",
+      "Swirlix"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 685,
+    "name_ja": "ペロリーム",
+    "name_en": "Slurpuff",
+    "search_keywords": [
+      "ペロリーム",
+      "Slurpuff"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 686,
+    "name_ja": "マーイーカ",
+    "name_en": "Inkay",
+    "search_keywords": [
+      "マーイーカ",
+      "Inkay"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 687,
+    "name_ja": "カラマネロ",
+    "name_en": "Malamar",
+    "search_keywords": [
+      "カラマネロ",
+      "Malamar"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 688,
+    "name_ja": "カメテテ",
+    "name_en": "Binacle",
+    "search_keywords": [
+      "カメテテ",
+      "Binacle"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 689,
+    "name_ja": "ガメノデス",
+    "name_en": "Barbaracle",
+    "search_keywords": [
+      "ガメノデス",
+      "Barbaracle"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 690,
+    "name_ja": "クズモー",
+    "name_en": "Skrelp",
+    "search_keywords": [
+      "クズモー",
+      "Skrelp"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 691,
+    "name_ja": "ドラミドロ",
+    "name_en": "Dragalge",
+    "search_keywords": [
+      "ドラミドロ",
+      "Dragalge"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 692,
+    "name_ja": "ウデッポウ",
+    "name_en": "Clauncher",
+    "search_keywords": [
+      "ウデッポウ",
+      "Clauncher"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 693,
+    "name_ja": "ブロスター",
+    "name_en": "Clawitzer",
+    "search_keywords": [
+      "ブロスター",
+      "Clawitzer"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 694,
+    "name_ja": "エリキテル",
+    "name_en": "Helioptile",
+    "search_keywords": [
+      "エリキテル",
+      "Helioptile"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 695,
+    "name_ja": "エレザード",
+    "name_en": "Heliolisk",
+    "search_keywords": [
+      "エレザード",
+      "Heliolisk"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 696,
+    "name_ja": "チゴラス",
+    "name_en": "Tyrunt",
+    "search_keywords": [
+      "チゴラス",
+      "Tyrunt"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 697,
+    "name_ja": "ガチゴラス",
+    "name_en": "Tyrantrum",
+    "search_keywords": [
+      "ガチゴラス",
+      "Tyrantrum"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 698,
+    "name_ja": "アマルス",
+    "name_en": "Amaura",
+    "search_keywords": [
+      "アマルス",
+      "Amaura"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 699,
+    "name_ja": "アマルルガ",
+    "name_en": "Aurorus",
+    "search_keywords": [
+      "アマルルガ",
+      "Aurorus"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 700,
+    "name_ja": "ニンフィア",
+    "name_en": "Sylveon",
+    "search_keywords": [
+      "ニンフィア",
+      "Sylveon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 701,
+    "name_ja": "ルチャブル",
+    "name_en": "Hawlucha",
+    "search_keywords": [
+      "ルチャブル",
+      "Hawlucha"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 702,
+    "name_ja": "デデンネ",
+    "name_en": "Dedenne",
+    "search_keywords": [
+      "デデンネ",
+      "Dedenne"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 703,
+    "name_ja": "メレシー",
+    "name_en": "Carbink",
+    "search_keywords": [
+      "メレシー",
+      "Carbink"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 704,
+    "name_ja": "ヌメラ",
+    "name_en": "Goomy",
+    "search_keywords": [
+      "ヌメラ",
+      "Goomy"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 705,
+    "name_ja": "ヌメイル",
+    "name_en": "Sliggoo",
+    "search_keywords": [
+      "ヌメイル",
+      "Sliggoo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 706,
+    "name_ja": "ヌメルゴン",
+    "name_en": "Goodra",
+    "search_keywords": [
+      "ヌメルゴン",
+      "Goodra"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 707,
+    "name_ja": "クレッフィ",
+    "name_en": "Klefki",
+    "search_keywords": [
+      "クレッフィ",
+      "Klefki"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 708,
+    "name_ja": "ボクレー",
+    "name_en": "Phantump",
+    "search_keywords": [
+      "ボクレー",
+      "Phantump"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 709,
+    "name_ja": "オーロット",
+    "name_en": "Trevenant",
+    "search_keywords": [
+      "オーロット",
+      "Trevenant"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 710,
+    "name_ja": "バケッチャ",
+    "name_en": "Pumpkaboo",
+    "search_keywords": [
+      "バケッチャ",
+      "Pumpkaboo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 711,
+    "name_ja": "パンプジン",
+    "name_en": "Gourgeist",
+    "search_keywords": [
+      "パンプジン",
+      "Gourgeist"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 712,
+    "name_ja": "カチコール",
+    "name_en": "Bergmite",
+    "search_keywords": [
+      "カチコール",
+      "Bergmite"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 713,
+    "name_ja": "クレベース",
+    "name_en": "Avalugg",
+    "search_keywords": [
+      "クレベース",
+      "Avalugg"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 714,
+    "name_ja": "オンバット",
+    "name_en": "Noibat",
+    "search_keywords": [
+      "オンバット",
+      "Noibat"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 715,
+    "name_ja": "オンバーン",
+    "name_en": "Noivern",
+    "search_keywords": [
+      "オンバーン",
+      "Noivern"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 716,
+    "name_ja": "ゼルネアス",
+    "name_en": "Xerneas",
+    "search_keywords": [
+      "ゼルネアス",
+      "Xerneas"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 717,
+    "name_ja": "イベルタル",
+    "name_en": "Yveltal",
+    "search_keywords": [
+      "イベルタル",
+      "Yveltal"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 718,
+    "name_ja": "ジガルデ",
+    "name_en": "Zygarde",
+    "search_keywords": [
+      "ジガルデ",
+      "Zygarde"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 719,
+    "name_ja": "ディアンシー",
+    "name_en": "Diancie",
+    "search_keywords": [
+      "ディアンシー",
+      "Diancie"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 720,
+    "name_ja": "フーパ",
+    "name_en": "Hoopa",
+    "search_keywords": [
+      "フーパ",
+      "Hoopa"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 721,
+    "name_ja": "ボルケニオン",
+    "name_en": "Volcanion",
+    "search_keywords": [
+      "ボルケニオン",
+      "Volcanion"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 722,
+    "name_ja": "モクロー",
+    "name_en": "Rowlet",
+    "search_keywords": [
+      "モクロー",
+      "Rowlet"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 723,
+    "name_ja": "フクスロー",
+    "name_en": "Dartrix",
+    "search_keywords": [
+      "フクスロー",
+      "Dartrix"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 724,
+    "name_ja": "ジュナイパー",
+    "name_en": "Decidueye",
+    "search_keywords": [
+      "ジュナイパー",
+      "Decidueye"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 725,
+    "name_ja": "ニャビー",
+    "name_en": "Litten",
+    "search_keywords": [
+      "ニャビー",
+      "Litten"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 726,
+    "name_ja": "ニャヒート",
+    "name_en": "Torracat",
+    "search_keywords": [
+      "ニャヒート",
+      "Torracat"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 727,
+    "name_ja": "ガオガエン",
+    "name_en": "Incineroar",
+    "search_keywords": [
+      "ガオガエン",
+      "Incineroar"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 728,
+    "name_ja": "アシマリ",
+    "name_en": "Popplio",
+    "search_keywords": [
+      "アシマリ",
+      "Popplio"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 729,
+    "name_ja": "オシャマリ",
+    "name_en": "Brionne",
+    "search_keywords": [
+      "オシャマリ",
+      "Brionne"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 730,
+    "name_ja": "アシレーヌ",
+    "name_en": "Primarina",
+    "search_keywords": [
+      "アシレーヌ",
+      "Primarina"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 731,
+    "name_ja": "ツツケラ",
+    "name_en": "Pikipek",
+    "search_keywords": [
+      "ツツケラ",
+      "Pikipek"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 732,
+    "name_ja": "ケララッパ",
+    "name_en": "Trumbeak",
+    "search_keywords": [
+      "ケララッパ",
+      "Trumbeak"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 733,
+    "name_ja": "ドデカバシ",
+    "name_en": "Toucannon",
+    "search_keywords": [
+      "ドデカバシ",
+      "Toucannon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 734,
+    "name_ja": "ヤングース",
+    "name_en": "Yungoos",
+    "search_keywords": [
+      "ヤングース",
+      "Yungoos"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 735,
+    "name_ja": "デカグース",
+    "name_en": "Gumshoos",
+    "search_keywords": [
+      "デカグース",
+      "Gumshoos"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 736,
+    "name_ja": "アゴジムシ",
+    "name_en": "Grubbin",
+    "search_keywords": [
+      "アゴジムシ",
+      "Grubbin"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 737,
+    "name_ja": "デンヂムシ",
+    "name_en": "Charjabug",
+    "search_keywords": [
+      "デンヂムシ",
+      "Charjabug"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 738,
+    "name_ja": "クワガノン",
+    "name_en": "Vikavolt",
+    "search_keywords": [
+      "クワガノン",
+      "Vikavolt"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 739,
+    "name_ja": "マケンカニ",
+    "name_en": "Crabrawler",
+    "search_keywords": [
+      "マケンカニ",
+      "Crabrawler"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 740,
+    "name_ja": "ケケンカニ",
+    "name_en": "Crabominable",
+    "search_keywords": [
+      "ケケンカニ",
+      "Crabominable"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 741,
+    "name_ja": "オドリドリ",
+    "name_en": "Oricorio",
+    "search_keywords": [
+      "オドリドリ",
+      "Oricorio"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 742,
+    "name_ja": "アブリー",
+    "name_en": "Cutiefly",
+    "search_keywords": [
+      "アブリー",
+      "Cutiefly"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 743,
+    "name_ja": "アブリボン",
+    "name_en": "Ribombee",
+    "search_keywords": [
+      "アブリボン",
+      "Ribombee"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 744,
+    "name_ja": "イワンコ",
+    "name_en": "Rockruff",
+    "search_keywords": [
+      "イワンコ",
+      "Rockruff"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 745,
+    "name_ja": "ルガルガン",
+    "name_en": "Lycanroc",
+    "search_keywords": [
+      "ルガルガン",
+      "Lycanroc"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 746,
+    "name_ja": "ヨワシ",
+    "name_en": "Wishiwashi",
+    "search_keywords": [
+      "ヨワシ",
+      "Wishiwashi"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 747,
+    "name_ja": "ヒドイデ",
+    "name_en": "Mareanie",
+    "search_keywords": [
+      "ヒドイデ",
+      "Mareanie"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 748,
+    "name_ja": "ドヒドイデ",
+    "name_en": "Toxapex",
+    "search_keywords": [
+      "ドヒドイデ",
+      "Toxapex"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 749,
+    "name_ja": "ドロバンコ",
+    "name_en": "Mudbray",
+    "search_keywords": [
+      "ドロバンコ",
+      "Mudbray"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 750,
+    "name_ja": "バンバドロ",
+    "name_en": "Mudsdale",
+    "search_keywords": [
+      "バンバドロ",
+      "Mudsdale"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 751,
+    "name_ja": "シズクモ",
+    "name_en": "Dewpider",
+    "search_keywords": [
+      "シズクモ",
+      "Dewpider"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 752,
+    "name_ja": "オニシズクモ",
+    "name_en": "Araquanid",
+    "search_keywords": [
+      "オニシズクモ",
+      "Araquanid"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 753,
+    "name_ja": "カリキリ",
+    "name_en": "Fomantis",
+    "search_keywords": [
+      "カリキリ",
+      "Fomantis"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 754,
+    "name_ja": "ラランテス",
+    "name_en": "Lurantis",
+    "search_keywords": [
+      "ラランテス",
+      "Lurantis"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 755,
+    "name_ja": "ネマシュ",
+    "name_en": "Morelull",
+    "search_keywords": [
+      "ネマシュ",
+      "Morelull"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 756,
+    "name_ja": "マシェード",
+    "name_en": "Shiinotic",
+    "search_keywords": [
+      "マシェード",
+      "Shiinotic"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 757,
+    "name_ja": "ヤトウモリ",
+    "name_en": "Salandit",
+    "search_keywords": [
+      "ヤトウモリ",
+      "Salandit"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 758,
+    "name_ja": "エンニュート",
+    "name_en": "Salazzle",
+    "search_keywords": [
+      "エンニュート",
+      "Salazzle"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 759,
+    "name_ja": "ヌイコグマ",
+    "name_en": "Stufful",
+    "search_keywords": [
+      "ヌイコグマ",
+      "Stufful"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 760,
+    "name_ja": "キテルグマ",
+    "name_en": "Bewear",
+    "search_keywords": [
+      "キテルグマ",
+      "Bewear"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 761,
+    "name_ja": "アマカジ",
+    "name_en": "Bounsweet",
+    "search_keywords": [
+      "アマカジ",
+      "Bounsweet"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 762,
+    "name_ja": "アママイコ",
+    "name_en": "Steenee",
+    "search_keywords": [
+      "アママイコ",
+      "Steenee"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 763,
+    "name_ja": "アマージョ",
+    "name_en": "Tsareena",
+    "search_keywords": [
+      "アマージョ",
+      "Tsareena"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 764,
+    "name_ja": "キュワワー",
+    "name_en": "Comfey",
+    "search_keywords": [
+      "キュワワー",
+      "Comfey"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 765,
+    "name_ja": "ヤレユータン",
+    "name_en": "Oranguru",
+    "search_keywords": [
+      "ヤレユータン",
+      "Oranguru"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 766,
+    "name_ja": "ナゲツケサル",
+    "name_en": "Passimian",
+    "search_keywords": [
+      "ナゲツケサル",
+      "Passimian"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 767,
+    "name_ja": "コソクムシ",
+    "name_en": "Wimpod",
+    "search_keywords": [
+      "コソクムシ",
+      "Wimpod"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 768,
+    "name_ja": "グソクムシャ",
+    "name_en": "Golisopod",
+    "search_keywords": [
+      "グソクムシャ",
+      "Golisopod"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 769,
+    "name_ja": "スナバァ",
+    "name_en": "Sandygast",
+    "search_keywords": [
+      "スナバァ",
+      "Sandygast"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 770,
+    "name_ja": "シロデスナ",
+    "name_en": "Palossand",
+    "search_keywords": [
+      "シロデスナ",
+      "Palossand"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 771,
+    "name_ja": "ナマコブシ",
+    "name_en": "Pyukumuku",
+    "search_keywords": [
+      "ナマコブシ",
+      "Pyukumuku"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 772,
+    "name_ja": "タイプ：ヌル",
+    "name_en": "Type: Null",
+    "search_keywords": [
+      "タイプ：ヌル",
+      "Type: Null"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 773,
+    "name_ja": "シルヴァディ",
+    "name_en": "Silvally",
+    "search_keywords": [
+      "シルヴァディ",
+      "Silvally"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 774,
+    "name_ja": "メテノ",
+    "name_en": "Minior",
+    "search_keywords": [
+      "メテノ",
+      "Minior"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 775,
+    "name_ja": "ネッコアラ",
+    "name_en": "Komala",
+    "search_keywords": [
+      "ネッコアラ",
+      "Komala"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 776,
+    "name_ja": "バクガメス",
+    "name_en": "Turtonator",
+    "search_keywords": [
+      "バクガメス",
+      "Turtonator"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 777,
+    "name_ja": "トゲデマル",
+    "name_en": "Togedemaru",
+    "search_keywords": [
+      "トゲデマル",
+      "Togedemaru"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 778,
+    "name_ja": "ミミッキュ",
+    "name_en": "Mimikyu",
+    "search_keywords": [
+      "ミミッキュ",
+      "Mimikyu"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 779,
+    "name_ja": "ハギギシリ",
+    "name_en": "Bruxish",
+    "search_keywords": [
+      "ハギギシリ",
+      "Bruxish"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 780,
+    "name_ja": "ジジーロン",
+    "name_en": "Drampa",
+    "search_keywords": [
+      "ジジーロン",
+      "Drampa"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 781,
+    "name_ja": "ダダリン",
+    "name_en": "Dhelmise",
+    "search_keywords": [
+      "ダダリン",
+      "Dhelmise"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 782,
+    "name_ja": "ジャラコ",
+    "name_en": "Jangmo-o",
+    "search_keywords": [
+      "ジャラコ",
+      "Jangmo-o"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 783,
+    "name_ja": "ジャランゴ",
+    "name_en": "Hakamo-o",
+    "search_keywords": [
+      "ジャランゴ",
+      "Hakamo-o"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 784,
+    "name_ja": "ジャラランガ",
+    "name_en": "Kommo-o",
+    "search_keywords": [
+      "ジャラランガ",
+      "Kommo-o"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 785,
+    "name_ja": "カプ・コケコ",
+    "name_en": "Tapu Koko",
+    "search_keywords": [
+      "カプ・コケコ",
+      "Tapu Koko"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 786,
+    "name_ja": "カプ・テテフ",
+    "name_en": "Tapu Lele",
+    "search_keywords": [
+      "カプ・テテフ",
+      "Tapu Lele"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 787,
+    "name_ja": "カプ・ブルル",
+    "name_en": "Tapu Bulu",
+    "search_keywords": [
+      "カプ・ブルル",
+      "Tapu Bulu"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 788,
+    "name_ja": "カプ・レヒレ",
+    "name_en": "Tapu Fini",
+    "search_keywords": [
+      "カプ・レヒレ",
+      "Tapu Fini"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 789,
+    "name_ja": "コスモッグ",
+    "name_en": "Cosmog",
+    "search_keywords": [
+      "コスモッグ",
+      "Cosmog"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 790,
+    "name_ja": "コスモウム",
+    "name_en": "Cosmoem",
+    "search_keywords": [
+      "コスモウム",
+      "Cosmoem"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 791,
+    "name_ja": "ソルガレオ",
+    "name_en": "Solgaleo",
+    "search_keywords": [
+      "ソルガレオ",
+      "Solgaleo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 792,
+    "name_ja": "ルナアーラ",
+    "name_en": "Lunala",
+    "search_keywords": [
+      "ルナアーラ",
+      "Lunala"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 793,
+    "name_ja": "ウツロイド",
+    "name_en": "Nihilego",
+    "search_keywords": [
+      "ウツロイド",
+      "Nihilego"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 794,
+    "name_ja": "マッシブーン",
+    "name_en": "Buzzwole",
+    "search_keywords": [
+      "マッシブーン",
+      "Buzzwole"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 795,
+    "name_ja": "フェローチェ",
+    "name_en": "Pheromosa",
+    "search_keywords": [
+      "フェローチェ",
+      "Pheromosa"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 796,
+    "name_ja": "デンジュモク",
+    "name_en": "Xurkitree",
+    "search_keywords": [
+      "デンジュモク",
+      "Xurkitree"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 797,
+    "name_ja": "テッカグヤ",
+    "name_en": "Celesteela",
+    "search_keywords": [
+      "テッカグヤ",
+      "Celesteela"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 798,
+    "name_ja": "カミツルギ",
+    "name_en": "Kartana",
+    "search_keywords": [
+      "カミツルギ",
+      "Kartana"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 799,
+    "name_ja": "アクジキング",
+    "name_en": "Guzzlord",
+    "search_keywords": [
+      "アクジキング",
+      "Guzzlord"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 800,
+    "name_ja": "ネクロズマ",
+    "name_en": "Necrozma",
+    "search_keywords": [
+      "ネクロズマ",
+      "Necrozma"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 801,
+    "name_ja": "マギアナ",
+    "name_en": "Magearna",
+    "search_keywords": [
+      "マギアナ",
+      "Magearna"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 802,
+    "name_ja": "マーシャドー",
+    "name_en": "Marshadow",
+    "search_keywords": [
+      "マーシャドー",
+      "Marshadow"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 803,
+    "name_ja": "ベベノム",
+    "name_en": "Poipole",
+    "search_keywords": [
+      "ベベノム",
+      "Poipole"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 804,
+    "name_ja": "アーゴヨン",
+    "name_en": "Naganadel",
+    "search_keywords": [
+      "アーゴヨン",
+      "Naganadel"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 805,
+    "name_ja": "ツンデツンデ",
+    "name_en": "Stakataka",
+    "search_keywords": [
+      "ツンデツンデ",
+      "Stakataka"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 806,
+    "name_ja": "ズガドーン",
+    "name_en": "Blacephalon",
+    "search_keywords": [
+      "ズガドーン",
+      "Blacephalon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 807,
+    "name_ja": "ゼラオラ",
+    "name_en": "Zeraora",
+    "search_keywords": [
+      "ゼラオラ",
+      "Zeraora"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 808,
+    "name_ja": "メルタン",
+    "name_en": "Meltan",
+    "search_keywords": [
+      "メルタン",
+      "Meltan"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 809,
+    "name_ja": "メルメタル",
+    "name_en": "Melmetal",
+    "search_keywords": [
+      "メルメタル",
+      "Melmetal"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 810,
+    "name_ja": "サルノリ",
+    "name_en": "Grookey",
+    "search_keywords": [
+      "サルノリ",
+      "Grookey"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 811,
+    "name_ja": "バチンキー",
+    "name_en": "Thwackey",
+    "search_keywords": [
+      "バチンキー",
+      "Thwackey"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 812,
+    "name_ja": "ゴリランダー",
+    "name_en": "Rillaboom",
+    "search_keywords": [
+      "ゴリランダー",
+      "Rillaboom"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 813,
+    "name_ja": "ヒバニー",
+    "name_en": "Scorbunny",
+    "search_keywords": [
+      "ヒバニー",
+      "Scorbunny"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 814,
+    "name_ja": "ラビフット",
+    "name_en": "Raboot",
+    "search_keywords": [
+      "ラビフット",
+      "Raboot"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 815,
+    "name_ja": "エースバーン",
+    "name_en": "Cinderace",
+    "search_keywords": [
+      "エースバーン",
+      "Cinderace"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 816,
+    "name_ja": "メッソン",
+    "name_en": "Sobble",
+    "search_keywords": [
+      "メッソン",
+      "Sobble"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 817,
+    "name_ja": "ジメレオン",
+    "name_en": "Drizzile",
+    "search_keywords": [
+      "ジメレオン",
+      "Drizzile"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 818,
+    "name_ja": "インテレオン",
+    "name_en": "Inteleon",
+    "search_keywords": [
+      "インテレオン",
+      "Inteleon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 819,
+    "name_ja": "ホシガリス",
+    "name_en": "Skwovet",
+    "search_keywords": [
+      "ホシガリス",
+      "Skwovet"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 820,
+    "name_ja": "ヨクバリス",
+    "name_en": "Greedent",
+    "search_keywords": [
+      "ヨクバリス",
+      "Greedent"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 821,
+    "name_ja": "ココガラ",
+    "name_en": "Rookidee",
+    "search_keywords": [
+      "ココガラ",
+      "Rookidee"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 822,
+    "name_ja": "アオガラス",
+    "name_en": "Corvisquire",
+    "search_keywords": [
+      "アオガラス",
+      "Corvisquire"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 823,
+    "name_ja": "アーマーガア",
+    "name_en": "Corviknight",
+    "search_keywords": [
+      "アーマーガア",
+      "Corviknight"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 824,
+    "name_ja": "サッチムシ",
+    "name_en": "Blipbug",
+    "search_keywords": [
+      "サッチムシ",
+      "Blipbug"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 825,
+    "name_ja": "レドームシ",
+    "name_en": "Dottler",
+    "search_keywords": [
+      "レドームシ",
+      "Dottler"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 826,
+    "name_ja": "イオルブ",
+    "name_en": "Orbeetle",
+    "search_keywords": [
+      "イオルブ",
+      "Orbeetle"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 827,
+    "name_ja": "クスネ",
+    "name_en": "Nickit",
+    "search_keywords": [
+      "クスネ",
+      "Nickit"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 828,
+    "name_ja": "フォクスライ",
+    "name_en": "Thievul",
+    "search_keywords": [
+      "フォクスライ",
+      "Thievul"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 829,
+    "name_ja": "ヒメンカ",
+    "name_en": "Gossifleur",
+    "search_keywords": [
+      "ヒメンカ",
+      "Gossifleur"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 830,
+    "name_ja": "ワタシラガ",
+    "name_en": "Eldegoss",
+    "search_keywords": [
+      "ワタシラガ",
+      "Eldegoss"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 831,
+    "name_ja": "ウールー",
+    "name_en": "Wooloo",
+    "search_keywords": [
+      "ウールー",
+      "Wooloo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 832,
+    "name_ja": "バイウールー",
+    "name_en": "Dubwool",
+    "search_keywords": [
+      "バイウールー",
+      "Dubwool"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 833,
+    "name_ja": "カムカメ",
+    "name_en": "Chewtle",
+    "search_keywords": [
+      "カムカメ",
+      "Chewtle"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 834,
+    "name_ja": "カジリガメ",
+    "name_en": "Drednaw",
+    "search_keywords": [
+      "カジリガメ",
+      "Drednaw"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 835,
+    "name_ja": "ワンパチ",
+    "name_en": "Yamper",
+    "search_keywords": [
+      "ワンパチ",
+      "Yamper"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 836,
+    "name_ja": "パルスワン",
+    "name_en": "Boltund",
+    "search_keywords": [
+      "パルスワン",
+      "Boltund"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 837,
+    "name_ja": "タンドン",
+    "name_en": "Rolycoly",
+    "search_keywords": [
+      "タンドン",
+      "Rolycoly"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 838,
+    "name_ja": "トロッゴン",
+    "name_en": "Carkol",
+    "search_keywords": [
+      "トロッゴン",
+      "Carkol"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 839,
+    "name_ja": "セキタンザン",
+    "name_en": "Coalossal",
+    "search_keywords": [
+      "セキタンザン",
+      "Coalossal"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 840,
+    "name_ja": "カジッチュ",
+    "name_en": "Applin",
+    "search_keywords": [
+      "カジッチュ",
+      "Applin"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 841,
+    "name_ja": "アップリュー",
+    "name_en": "Flapple",
+    "search_keywords": [
+      "アップリュー",
+      "Flapple"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 842,
+    "name_ja": "タルップル",
+    "name_en": "Appletun",
+    "search_keywords": [
+      "タルップル",
+      "Appletun"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 843,
+    "name_ja": "スナヘビ",
+    "name_en": "Silicobra",
+    "search_keywords": [
+      "スナヘビ",
+      "Silicobra"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 844,
+    "name_ja": "サダイジャ",
+    "name_en": "Sandaconda",
+    "search_keywords": [
+      "サダイジャ",
+      "Sandaconda"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 845,
+    "name_ja": "ウッウ",
+    "name_en": "Cramorant",
+    "search_keywords": [
+      "ウッウ",
+      "Cramorant"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 846,
+    "name_ja": "サシカマス",
+    "name_en": "Arrokuda",
+    "search_keywords": [
+      "サシカマス",
+      "Arrokuda"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 847,
+    "name_ja": "カマスジョー",
+    "name_en": "Barraskewda",
+    "search_keywords": [
+      "カマスジョー",
+      "Barraskewda"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 848,
+    "name_ja": "エレズン",
+    "name_en": "Toxel",
+    "search_keywords": [
+      "エレズン",
+      "Toxel"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 849,
+    "name_ja": "ストリンダー",
+    "name_en": "Toxtricity",
+    "search_keywords": [
+      "ストリンダー",
+      "Toxtricity"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 850,
+    "name_ja": "ヤクデ",
+    "name_en": "Sizzlipede",
+    "search_keywords": [
+      "ヤクデ",
+      "Sizzlipede"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 851,
+    "name_ja": "マルヤクデ",
+    "name_en": "Centiskorch",
+    "search_keywords": [
+      "マルヤクデ",
+      "Centiskorch"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 852,
+    "name_ja": "タタッコ",
+    "name_en": "Clobbopus",
+    "search_keywords": [
+      "タタッコ",
+      "Clobbopus"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 853,
+    "name_ja": "オトスパス",
+    "name_en": "Grapploct",
+    "search_keywords": [
+      "オトスパス",
+      "Grapploct"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 854,
+    "name_ja": "ヤバチャ",
+    "name_en": "Sinistea",
+    "search_keywords": [
+      "ヤバチャ",
+      "Sinistea"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 855,
+    "name_ja": "ポットデス",
+    "name_en": "Polteageist",
+    "search_keywords": [
+      "ポットデス",
+      "Polteageist"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 856,
+    "name_ja": "ミブリム",
+    "name_en": "Hatenna",
+    "search_keywords": [
+      "ミブリム",
+      "Hatenna"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 857,
+    "name_ja": "テブリム",
+    "name_en": "Hattrem",
+    "search_keywords": [
+      "テブリム",
+      "Hattrem"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 858,
+    "name_ja": "ブリムオン",
+    "name_en": "Hatterene",
+    "search_keywords": [
+      "ブリムオン",
+      "Hatterene"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 859,
+    "name_ja": "ベロバー",
+    "name_en": "Impidimp",
+    "search_keywords": [
+      "ベロバー",
+      "Impidimp"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 860,
+    "name_ja": "ギモー",
+    "name_en": "Morgrem",
+    "search_keywords": [
+      "ギモー",
+      "Morgrem"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 861,
+    "name_ja": "オーロンゲ",
+    "name_en": "Grimmsnarl",
+    "search_keywords": [
+      "オーロンゲ",
+      "Grimmsnarl"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 862,
+    "name_ja": "タチフサグマ",
+    "name_en": "Obstagoon",
+    "search_keywords": [
+      "タチフサグマ",
+      "Obstagoon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 863,
+    "name_ja": "ニャイキング",
+    "name_en": "Perrserker",
+    "search_keywords": [
+      "ニャイキング",
+      "Perrserker"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 864,
+    "name_ja": "サニゴーン",
+    "name_en": "Cursola",
+    "search_keywords": [
+      "サニゴーン",
+      "Cursola"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 865,
+    "name_ja": "ネギガナイト",
+    "name_en": "Sirfetch’d",
+    "search_keywords": [
+      "ネギガナイト",
+      "Sirfetch’d"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 866,
+    "name_ja": "バリコオル",
+    "name_en": "Mr. Rime",
+    "search_keywords": [
+      "バリコオル",
+      "Mr. Rime"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 867,
+    "name_ja": "デスバーン",
+    "name_en": "Runerigus",
+    "search_keywords": [
+      "デスバーン",
+      "Runerigus"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 868,
+    "name_ja": "マホミル",
+    "name_en": "Milcery",
+    "search_keywords": [
+      "マホミル",
+      "Milcery"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 869,
+    "name_ja": "マホイップ",
+    "name_en": "Alcremie",
+    "search_keywords": [
+      "マホイップ",
+      "Alcremie"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 870,
+    "name_ja": "タイレーツ",
+    "name_en": "Falinks",
+    "search_keywords": [
+      "タイレーツ",
+      "Falinks"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 871,
+    "name_ja": "バチンウニ",
+    "name_en": "Pincurchin",
+    "search_keywords": [
+      "バチンウニ",
+      "Pincurchin"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 872,
+    "name_ja": "ユキハミ",
+    "name_en": "Snom",
+    "search_keywords": [
+      "ユキハミ",
+      "Snom"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 873,
+    "name_ja": "モスノウ",
+    "name_en": "Frosmoth",
+    "search_keywords": [
+      "モスノウ",
+      "Frosmoth"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 874,
+    "name_ja": "イシヘンジン",
+    "name_en": "Stonjourner",
+    "search_keywords": [
+      "イシヘンジン",
+      "Stonjourner"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 875,
+    "name_ja": "コオリッポ",
+    "name_en": "Eiscue",
+    "search_keywords": [
+      "コオリッポ",
+      "Eiscue"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 876,
+    "name_ja": "イエッサン",
+    "name_en": "Indeedee",
+    "search_keywords": [
+      "イエッサン",
+      "Indeedee"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 877,
+    "name_ja": "モルペコ",
+    "name_en": "Morpeko",
+    "search_keywords": [
+      "モルペコ",
+      "Morpeko"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 878,
+    "name_ja": "ゾウドウ",
+    "name_en": "Cufant",
+    "search_keywords": [
+      "ゾウドウ",
+      "Cufant"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 879,
+    "name_ja": "ダイオウドウ",
+    "name_en": "Copperajah",
+    "search_keywords": [
+      "ダイオウドウ",
+      "Copperajah"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 880,
+    "name_ja": "パッチラゴン",
+    "name_en": "Dracozolt",
+    "search_keywords": [
+      "パッチラゴン",
+      "Dracozolt"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 881,
+    "name_ja": "パッチルドン",
+    "name_en": "Arctozolt",
+    "search_keywords": [
+      "パッチルドン",
+      "Arctozolt"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 882,
+    "name_ja": "ウオノラゴン",
+    "name_en": "Dracovish",
+    "search_keywords": [
+      "ウオノラゴン",
+      "Dracovish"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 883,
+    "name_ja": "ウオチルドン",
+    "name_en": "Arctovish",
+    "search_keywords": [
+      "ウオチルドン",
+      "Arctovish"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 884,
+    "name_ja": "ジュラルドン",
+    "name_en": "Duraludon",
+    "search_keywords": [
+      "ジュラルドン",
+      "Duraludon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 885,
+    "name_ja": "ドラメシヤ",
+    "name_en": "Dreepy",
+    "search_keywords": [
+      "ドラメシヤ",
+      "Dreepy"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 886,
+    "name_ja": "ドロンチ",
+    "name_en": "Drakloak",
+    "search_keywords": [
+      "ドロンチ",
+      "Drakloak"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 887,
+    "name_ja": "ドラパルト",
+    "name_en": "Dragapult",
+    "search_keywords": [
+      "ドラパルト",
+      "Dragapult"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 888,
+    "name_ja": "ザシアン",
+    "name_en": "Zacian",
+    "search_keywords": [
+      "ザシアン",
+      "Zacian"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 889,
+    "name_ja": "ザマゼンタ",
+    "name_en": "Zamazenta",
+    "search_keywords": [
+      "ザマゼンタ",
+      "Zamazenta"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 890,
+    "name_ja": "ムゲンダイナ",
+    "name_en": "Eternatus",
+    "search_keywords": [
+      "ムゲンダイナ",
+      "Eternatus"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 891,
+    "name_ja": "ダクマ",
+    "name_en": "Kubfu",
+    "search_keywords": [
+      "ダクマ",
+      "Kubfu"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 892,
+    "name_ja": "ウーラオス",
+    "name_en": "Urshifu",
+    "search_keywords": [
+      "ウーラオス",
+      "Urshifu"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 893,
+    "name_ja": "ザルード",
+    "name_en": "Zarude",
+    "search_keywords": [
+      "ザルード",
+      "Zarude"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 894,
+    "name_ja": "レジエレキ",
+    "name_en": "Regieleki",
+    "search_keywords": [
+      "レジエレキ",
+      "Regieleki"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 895,
+    "name_ja": "レジドラゴ",
+    "name_en": "Regidrago",
+    "search_keywords": [
+      "レジドラゴ",
+      "Regidrago"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 896,
+    "name_ja": "ブリザポス",
+    "name_en": "Glastrier",
+    "search_keywords": [
+      "ブリザポス",
+      "Glastrier"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 897,
+    "name_ja": "レイスポス",
+    "name_en": "Spectrier",
+    "search_keywords": [
+      "レイスポス",
+      "Spectrier"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 898,
+    "name_ja": "バドレックス",
+    "name_en": "Calyrex",
+    "search_keywords": [
+      "バドレックス",
+      "Calyrex"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 899,
+    "name_ja": "アヤシシ",
+    "name_en": "Wyrdeer",
+    "search_keywords": [
+      "アヤシシ",
+      "Wyrdeer"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 900,
+    "name_ja": "バサギリ",
+    "name_en": "Kleavor",
+    "search_keywords": [
+      "バサギリ",
+      "Kleavor"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 901,
+    "name_ja": "ガチグマ",
+    "name_en": "Ursaluna",
+    "search_keywords": [
+      "ガチグマ",
+      "Ursaluna"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 902,
+    "name_ja": "イダイトウ",
+    "name_en": "Basculegion",
+    "search_keywords": [
+      "イダイトウ",
+      "Basculegion"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 903,
+    "name_ja": "オオニューラ",
+    "name_en": "Sneasler",
+    "search_keywords": [
+      "オオニューラ",
+      "Sneasler"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 904,
+    "name_ja": "ハリーマン",
+    "name_en": "Overqwil",
+    "search_keywords": [
+      "ハリーマン",
+      "Overqwil"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 905,
+    "name_ja": "ラブトロス",
+    "name_en": "Enamorus",
+    "search_keywords": [
+      "ラブトロス",
+      "Enamorus"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 906,
+    "name_ja": "ニャオハ",
+    "name_en": "Sprigatito",
+    "search_keywords": [
+      "ニャオハ",
+      "Sprigatito"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 907,
+    "name_ja": "ニャローテ",
+    "name_en": "Floragato",
+    "search_keywords": [
+      "ニャローテ",
+      "Floragato"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 908,
+    "name_ja": "マスカーニャ",
+    "name_en": "Meowscarada",
+    "search_keywords": [
+      "マスカーニャ",
+      "Meowscarada"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 909,
+    "name_ja": "ホゲータ",
+    "name_en": "Fuecoco",
+    "search_keywords": [
+      "ホゲータ",
+      "Fuecoco"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 910,
+    "name_ja": "アチゲータ",
+    "name_en": "Crocalor",
+    "search_keywords": [
+      "アチゲータ",
+      "Crocalor"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 911,
+    "name_ja": "ラウドボーン",
+    "name_en": "Skeledirge",
+    "search_keywords": [
+      "ラウドボーン",
+      "Skeledirge"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 912,
+    "name_ja": "クワッス",
+    "name_en": "Quaxly",
+    "search_keywords": [
+      "クワッス",
+      "Quaxly"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 913,
+    "name_ja": "ウェルカモ",
+    "name_en": "Quaxwell",
+    "search_keywords": [
+      "ウェルカモ",
+      "Quaxwell"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 914,
+    "name_ja": "ウェーニバル",
+    "name_en": "Quaquaval",
+    "search_keywords": [
+      "ウェーニバル",
+      "Quaquaval"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 915,
+    "name_ja": "グルトン",
+    "name_en": "Lechonk",
+    "search_keywords": [
+      "グルトン",
+      "Lechonk"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 916,
+    "name_ja": "パフュートン",
+    "name_en": "Oinkologne",
+    "search_keywords": [
+      "パフュートン",
+      "Oinkologne"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 917,
+    "name_ja": "タマンチュラ",
+    "name_en": "Tarountula",
+    "search_keywords": [
+      "タマンチュラ",
+      "Tarountula"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 918,
+    "name_ja": "ワナイダー",
+    "name_en": "Spidops",
+    "search_keywords": [
+      "ワナイダー",
+      "Spidops"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 919,
+    "name_ja": "マメバッタ",
+    "name_en": "Nymble",
+    "search_keywords": [
+      "マメバッタ",
+      "Nymble"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 920,
+    "name_ja": "エクスレッグ",
+    "name_en": "Lokix",
+    "search_keywords": [
+      "エクスレッグ",
+      "Lokix"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 921,
+    "name_ja": "パモ",
+    "name_en": "Pawmi",
+    "search_keywords": [
+      "パモ",
+      "Pawmi"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 922,
+    "name_ja": "パモット",
+    "name_en": "Pawmo",
+    "search_keywords": [
+      "パモット",
+      "Pawmo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 923,
+    "name_ja": "パーモット",
+    "name_en": "Pawmot",
+    "search_keywords": [
+      "パーモット",
+      "Pawmot"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 924,
+    "name_ja": "ワッカネズミ",
+    "name_en": "Tandemaus",
+    "search_keywords": [
+      "ワッカネズミ",
+      "Tandemaus"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 925,
+    "name_ja": "イッカネズミ",
+    "name_en": "Maushold",
+    "search_keywords": [
+      "イッカネズミ",
+      "Maushold"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 926,
+    "name_ja": "パピモッチ",
+    "name_en": "Fidough",
+    "search_keywords": [
+      "パピモッチ",
+      "Fidough"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 927,
+    "name_ja": "バウッツェル",
+    "name_en": "Dachsbun",
+    "search_keywords": [
+      "バウッツェル",
+      "Dachsbun"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 928,
+    "name_ja": "ミニーブ",
+    "name_en": "Smoliv",
+    "search_keywords": [
+      "ミニーブ",
+      "Smoliv"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 929,
+    "name_ja": "オリーニョ",
+    "name_en": "Dolliv",
+    "search_keywords": [
+      "オリーニョ",
+      "Dolliv"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 930,
+    "name_ja": "オリーヴァ",
+    "name_en": "Arboliva",
+    "search_keywords": [
+      "オリーヴァ",
+      "Arboliva"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 931,
+    "name_ja": "イキリンコ",
+    "name_en": "Squawkabilly",
+    "search_keywords": [
+      "イキリンコ",
+      "Squawkabilly"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 932,
+    "name_ja": "コジオ",
+    "name_en": "Nacli",
+    "search_keywords": [
+      "コジオ",
+      "Nacli"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 933,
+    "name_ja": "ジオヅム",
+    "name_en": "Naclstack",
+    "search_keywords": [
+      "ジオヅム",
+      "Naclstack"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 934,
+    "name_ja": "キョジオーン",
+    "name_en": "Garganacl",
+    "search_keywords": [
+      "キョジオーン",
+      "Garganacl"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 935,
+    "name_ja": "カルボウ",
+    "name_en": "Charcadet",
+    "search_keywords": [
+      "カルボウ",
+      "Charcadet"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 936,
+    "name_ja": "グレンアルマ",
+    "name_en": "Armarouge",
+    "search_keywords": [
+      "グレンアルマ",
+      "Armarouge"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 937,
+    "name_ja": "ソウブレイズ",
+    "name_en": "Ceruledge",
+    "search_keywords": [
+      "ソウブレイズ",
+      "Ceruledge"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 938,
+    "name_ja": "ズピカ",
+    "name_en": "Tadbulb",
+    "search_keywords": [
+      "ズピカ",
+      "Tadbulb"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 939,
+    "name_ja": "ハラバリー",
+    "name_en": "Bellibolt",
+    "search_keywords": [
+      "ハラバリー",
+      "Bellibolt"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 940,
+    "name_ja": "カイデン",
+    "name_en": "Wattrel",
+    "search_keywords": [
+      "カイデン",
+      "Wattrel"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 941,
+    "name_ja": "タイカイデン",
+    "name_en": "Kilowattrel",
+    "search_keywords": [
+      "タイカイデン",
+      "Kilowattrel"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 942,
+    "name_ja": "オラチフ",
+    "name_en": "Maschiff",
+    "search_keywords": [
+      "オラチフ",
+      "Maschiff"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 943,
+    "name_ja": "マフィティフ",
+    "name_en": "Mabosstiff",
+    "search_keywords": [
+      "マフィティフ",
+      "Mabosstiff"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 944,
+    "name_ja": "シルシュルー",
+    "name_en": "Shroodle",
+    "search_keywords": [
+      "シルシュルー",
+      "Shroodle"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 945,
+    "name_ja": "タギングル",
+    "name_en": "Grafaiai",
+    "search_keywords": [
+      "タギングル",
+      "Grafaiai"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 946,
+    "name_ja": "アノクサ",
+    "name_en": "Bramblin",
+    "search_keywords": [
+      "アノクサ",
+      "Bramblin"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 947,
+    "name_ja": "アノホラグサ",
+    "name_en": "Brambleghast",
+    "search_keywords": [
+      "アノホラグサ",
+      "Brambleghast"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 948,
+    "name_ja": "ノノクラゲ",
+    "name_en": "Toedscool",
+    "search_keywords": [
+      "ノノクラゲ",
+      "Toedscool"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 949,
+    "name_ja": "リククラゲ",
+    "name_en": "Toedscruel",
+    "search_keywords": [
+      "リククラゲ",
+      "Toedscruel"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 950,
+    "name_ja": "ガケガニ",
+    "name_en": "Klawf",
+    "search_keywords": [
+      "ガケガニ",
+      "Klawf"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 951,
+    "name_ja": "カプサイジ",
+    "name_en": "Capsakid",
+    "search_keywords": [
+      "カプサイジ",
+      "Capsakid"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 952,
+    "name_ja": "スコヴィラン",
+    "name_en": "Scovillain",
+    "search_keywords": [
+      "スコヴィラン",
+      "Scovillain"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 953,
+    "name_ja": "シガロコ",
+    "name_en": "Rellor",
+    "search_keywords": [
+      "シガロコ",
+      "Rellor"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 954,
+    "name_ja": "ベラカス",
+    "name_en": "Rabsca",
+    "search_keywords": [
+      "ベラカス",
+      "Rabsca"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 955,
+    "name_ja": "ヒラヒナ",
+    "name_en": "Flittle",
+    "search_keywords": [
+      "ヒラヒナ",
+      "Flittle"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 956,
+    "name_ja": "クエスパトラ",
+    "name_en": "Espathra",
+    "search_keywords": [
+      "クエスパトラ",
+      "Espathra"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 957,
+    "name_ja": "カヌチャン",
+    "name_en": "Tinkatink",
+    "search_keywords": [
+      "カヌチャン",
+      "Tinkatink"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 958,
+    "name_ja": "ナカヌチャン",
+    "name_en": "Tinkatuff",
+    "search_keywords": [
+      "ナカヌチャン",
+      "Tinkatuff"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 959,
+    "name_ja": "デカヌチャン",
+    "name_en": "Tinkaton",
+    "search_keywords": [
+      "デカヌチャン",
+      "Tinkaton"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 960,
+    "name_ja": "ウミディグダ",
+    "name_en": "Wiglett",
+    "search_keywords": [
+      "ウミディグダ",
+      "Wiglett"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 961,
+    "name_ja": "ウミトリオ",
+    "name_en": "Wugtrio",
+    "search_keywords": [
+      "ウミトリオ",
+      "Wugtrio"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 962,
+    "name_ja": "オトシドリ",
+    "name_en": "Bombirdier",
+    "search_keywords": [
+      "オトシドリ",
+      "Bombirdier"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 963,
+    "name_ja": "ナミイルカ",
+    "name_en": "Finizen",
+    "search_keywords": [
+      "ナミイルカ",
+      "Finizen"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 964,
+    "name_ja": "イルカマン",
+    "name_en": "Palafin",
+    "search_keywords": [
+      "イルカマン",
+      "Palafin"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 965,
+    "name_ja": "ブロロン",
+    "name_en": "Varoom",
+    "search_keywords": [
+      "ブロロン",
+      "Varoom"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 966,
+    "name_ja": "ブロロローム",
+    "name_en": "Revavroom",
+    "search_keywords": [
+      "ブロロローム",
+      "Revavroom"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 967,
+    "name_ja": "モトトカゲ",
+    "name_en": "Cyclizar",
+    "search_keywords": [
+      "モトトカゲ",
+      "Cyclizar"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 968,
+    "name_ja": "ミミズズ",
+    "name_en": "Orthworm",
+    "search_keywords": [
+      "ミミズズ",
+      "Orthworm"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 969,
+    "name_ja": "キラーメ",
+    "name_en": "Glimmet",
+    "search_keywords": [
+      "キラーメ",
+      "Glimmet"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 970,
+    "name_ja": "キラフロル",
+    "name_en": "Glimmora",
+    "search_keywords": [
+      "キラフロル",
+      "Glimmora"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 971,
+    "name_ja": "ボチ",
+    "name_en": "Greavard",
+    "search_keywords": [
+      "ボチ",
+      "Greavard"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 972,
+    "name_ja": "ハカドッグ",
+    "name_en": "Houndstone",
+    "search_keywords": [
+      "ハカドッグ",
+      "Houndstone"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 973,
+    "name_ja": "カラミンゴ",
+    "name_en": "Flamigo",
+    "search_keywords": [
+      "カラミンゴ",
+      "Flamigo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 974,
+    "name_ja": "アルクジラ",
+    "name_en": "Cetoddle",
+    "search_keywords": [
+      "アルクジラ",
+      "Cetoddle"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 975,
+    "name_ja": "ハルクジラ",
+    "name_en": "Cetitan",
+    "search_keywords": [
+      "ハルクジラ",
+      "Cetitan"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 976,
+    "name_ja": "ミガルーサ",
+    "name_en": "Veluza",
+    "search_keywords": [
+      "ミガルーサ",
+      "Veluza"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 977,
+    "name_ja": "ヘイラッシャ",
+    "name_en": "Dondozo",
+    "search_keywords": [
+      "ヘイラッシャ",
+      "Dondozo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 978,
+    "name_ja": "シャリタツ",
+    "name_en": "Tatsugiri",
+    "search_keywords": [
+      "シャリタツ",
+      "Tatsugiri"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 979,
+    "name_ja": "コノヨザル",
+    "name_en": "Annihilape",
+    "search_keywords": [
+      "コノヨザル",
+      "Annihilape"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 980,
+    "name_ja": "ドオー",
+    "name_en": "Clodsire",
+    "search_keywords": [
+      "ドオー",
+      "Clodsire"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 981,
+    "name_ja": "リキキリン",
+    "name_en": "Farigiraf",
+    "search_keywords": [
+      "リキキリン",
+      "Farigiraf"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 982,
+    "name_ja": "ノココッチ",
+    "name_en": "Dudunsparce",
+    "search_keywords": [
+      "ノココッチ",
+      "Dudunsparce"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 983,
+    "name_ja": "ドドゲザン",
+    "name_en": "Kingambit",
+    "search_keywords": [
+      "ドドゲザン",
+      "Kingambit"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 984,
+    "name_ja": "イダイナキバ",
+    "name_en": "Great Tusk",
+    "search_keywords": [
+      "イダイナキバ",
+      "Great Tusk"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 985,
+    "name_ja": "サケブシッポ",
+    "name_en": "Scream Tail",
+    "search_keywords": [
+      "サケブシッポ",
+      "Scream Tail"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 986,
+    "name_ja": "アラブルタケ",
+    "name_en": "Brute Bonnet",
+    "search_keywords": [
+      "アラブルタケ",
+      "Brute Bonnet"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 987,
+    "name_ja": "ハバタクカミ",
+    "name_en": "Flutter Mane",
+    "search_keywords": [
+      "ハバタクカミ",
+      "Flutter Mane"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 988,
+    "name_ja": "チヲハウハネ",
+    "name_en": "Slither Wing",
+    "search_keywords": [
+      "チヲハウハネ",
+      "Slither Wing"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 989,
+    "name_ja": "スナノケガワ",
+    "name_en": "Sandy Shocks",
+    "search_keywords": [
+      "スナノケガワ",
+      "Sandy Shocks"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 990,
+    "name_ja": "テツノワダチ",
+    "name_en": "Iron Treads",
+    "search_keywords": [
+      "テツノワダチ",
+      "Iron Treads"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 991,
+    "name_ja": "テツノツツミ",
+    "name_en": "Iron Bundle",
+    "search_keywords": [
+      "テツノツツミ",
+      "Iron Bundle"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 992,
+    "name_ja": "テツノカイナ",
+    "name_en": "Iron Hands",
+    "search_keywords": [
+      "テツノカイナ",
+      "Iron Hands"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 993,
+    "name_ja": "テツノコウベ",
+    "name_en": "Iron Jugulis",
+    "search_keywords": [
+      "テツノコウベ",
+      "Iron Jugulis"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 994,
+    "name_ja": "テツノドクガ",
+    "name_en": "Iron Moth",
+    "search_keywords": [
+      "テツノドクガ",
+      "Iron Moth"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 995,
+    "name_ja": "テツノイバラ",
+    "name_en": "Iron Thorns",
+    "search_keywords": [
+      "テツノイバラ",
+      "Iron Thorns"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 996,
+    "name_ja": "セビエ",
+    "name_en": "Frigibax",
+    "search_keywords": [
+      "セビエ",
+      "Frigibax"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 997,
+    "name_ja": "セゴール",
+    "name_en": "Arctibax",
+    "search_keywords": [
+      "セゴール",
+      "Arctibax"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 998,
+    "name_ja": "セグレイブ",
+    "name_en": "Baxcalibur",
+    "search_keywords": [
+      "セグレイブ",
+      "Baxcalibur"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 999,
+    "name_ja": "コレクレー",
+    "name_en": "Gimmighoul",
+    "search_keywords": [
+      "コレクレー",
+      "Gimmighoul"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1000,
+    "name_ja": "サーフゴー",
+    "name_en": "Gholdengo",
+    "search_keywords": [
+      "サーフゴー",
+      "Gholdengo"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1001,
+    "name_ja": "チオンジェン",
+    "name_en": "Wo-Chien",
+    "search_keywords": [
+      "チオンジェン",
+      "Wo-Chien"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1002,
+    "name_ja": "パオジアン",
+    "name_en": "Chien-Pao",
+    "search_keywords": [
+      "パオジアン",
+      "Chien-Pao"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1003,
+    "name_ja": "ディンルー",
+    "name_en": "Ting-Lu",
+    "search_keywords": [
+      "ディンルー",
+      "Ting-Lu"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1004,
+    "name_ja": "イーユイ",
+    "name_en": "Chi-Yu",
+    "search_keywords": [
+      "イーユイ",
+      "Chi-Yu"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1005,
+    "name_ja": "トドロクツキ",
+    "name_en": "Roaring Moon",
+    "search_keywords": [
+      "トドロクツキ",
+      "Roaring Moon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1006,
+    "name_ja": "テツノブジン",
+    "name_en": "Iron Valiant",
+    "search_keywords": [
+      "テツノブジン",
+      "Iron Valiant"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1007,
+    "name_ja": "コライドン",
+    "name_en": "Koraidon",
+    "search_keywords": [
+      "コライドン",
+      "Koraidon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1008,
+    "name_ja": "ミライドン",
+    "name_en": "Miraidon",
+    "search_keywords": [
+      "ミライドン",
+      "Miraidon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1009,
+    "name_ja": "ウネルミナモ",
+    "name_en": "Walking Wake",
+    "search_keywords": [
+      "ウネルミナモ",
+      "Walking Wake"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1010,
+    "name_ja": "テツノイサハ",
+    "name_en": "Iron Leaves",
+    "search_keywords": [
+      "テツノイサハ",
+      "Iron Leaves"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1011,
+    "name_ja": "カミッチュ",
+    "name_en": "Dipplin",
+    "search_keywords": [
+      "カミッチュ",
+      "Dipplin"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1012,
+    "name_ja": "チャデス",
+    "name_en": "Poltchageist",
+    "search_keywords": [
+      "チャデス",
+      "Poltchageist"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1013,
+    "name_ja": "ヤバソチャ",
+    "name_en": "Sinistcha",
+    "search_keywords": [
+      "ヤバソチャ",
+      "Sinistcha"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1014,
+    "name_ja": "イイネイヌ",
+    "name_en": "Okidogi",
+    "search_keywords": [
+      "イイネイヌ",
+      "Okidogi"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1015,
+    "name_ja": "マシマシラ",
+    "name_en": "Munkidori",
+    "search_keywords": [
+      "マシマシラ",
+      "Munkidori"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1016,
+    "name_ja": "キチキギス",
+    "name_en": "Fezandipiti",
+    "search_keywords": [
+      "キチキギス",
+      "Fezandipiti"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1017,
+    "name_ja": "オーガポン",
+    "name_en": "Ogerpon",
+    "search_keywords": [
+      "オーガポン",
+      "Ogerpon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1018,
+    "name_ja": "ブリジュラス",
+    "name_en": "Archaludon",
+    "search_keywords": [
+      "ブリジュラス",
+      "Archaludon"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1019,
+    "name_ja": "カミツオロチ",
+    "name_en": "Hydrapple",
+    "search_keywords": [
+      "カミツオロチ",
+      "Hydrapple"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1020,
+    "name_ja": "ウガツホムラ",
+    "name_en": "Gouging Fire",
+    "search_keywords": [
+      "ウガツホムラ",
+      "Gouging Fire"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1021,
+    "name_ja": "タケルライコ",
+    "name_en": "Raging Bolt",
+    "search_keywords": [
+      "タケルライコ",
+      "Raging Bolt"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1022,
+    "name_ja": "テツノイワオ",
+    "name_en": "Iron Boulder",
+    "search_keywords": [
+      "テツノイワオ",
+      "Iron Boulder"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1023,
+    "name_ja": "テツノカシラ",
+    "name_en": "Iron Crown",
+    "search_keywords": [
+      "テツノカシラ",
+      "Iron Crown"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1024,
+    "name_ja": "テラパゴス",
+    "name_en": "Terapagos",
+    "search_keywords": [
+      "テラパゴス",
+      "Terapagos"
+    ],
+    "source": "pokeapi"
+  },
+  {
+    "id": 1025,
+    "name_ja": "モモワロウ",
+    "name_en": "Pecharunt",
+    "search_keywords": [
+      "モモワロウ",
+      "Pecharunt"
+    ],
+    "source": "pokeapi"
+  }
+]

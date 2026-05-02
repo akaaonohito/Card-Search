@@ -133,3 +133,19 @@ button:hover {
 button:active {
     background-color: #a32207;
 }
+
+/* --- Suggestion Types --- */
+.suggestion-pokemon {
+    font-weight: bold;
+    color: #1a73e8;
+}
+
+.suggestion-pokemon-with-parts {
+    font-weight: bold;
+    color: #00796b;
+}
+
+.suggestion-card {
+    color: var(--text-color);
+}
+
